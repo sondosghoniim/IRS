@@ -1,0 +1,1501 @@
+product_id,product_name,category,price,brand,rating
+product_0,Trendy Accessories,Accessories,300.75,BrandA,4.1
+product_1,Modern Home Decor,Home Decor,265.13,BrandB,4.9
+product_2,Elegant Beauty,Beauty,303.13,BrandC,2.1
+product_3,Classic Clothing,Clothing,279.26,BrandB,2.9
+product_4,Trendy Shoes,Shoes,401.94,BrandD,1.6
+product_5,Trendy Beauty,Beauty,282.86,BrandE,4.1
+product_6,Elegant Shoes,Shoes,383.64,BrandE,4.1
+product_7,Classic Clothing,Clothing,417.13,BrandE,2.1
+product_8,Modern Clothing,Clothing,448.09,BrandC,3.0
+product_9,Modern Beauty,Beauty,39.09,BrandA,3.8
+product_10,Elegant Beauty,Beauty,348.95,BrandE,3.6
+product_11,Stylish Shoes,Shoes,146.01,BrandC,4.0
+product_12,Stylish Home Decor,Home Decor,498.77,BrandE,3.7
+product_13,Classic Accessories,Accessories,298.8,BrandD,2.1
+product_14,Stylish Home Decor,Home Decor,31.9,BrandA,4.2
+product_15,Trendy Clothing,Clothing,424.39,BrandC,2.7
+product_16,Trendy Accessories,Accessories,66.58,BrandC,2.8
+product_17,Elegant Clothing,Clothing,130.77,BrandC,1.0
+product_18,Classic Home Decor,Home Decor,377.85,BrandB,3.4
+product_19,Stylish Home Decor,Home Decor,164.02,BrandD,1.3
+product_20,Modern Clothing,Clothing,365.33,BrandE,3.2
+product_21,Trendy Clothing,Clothing,229.38,BrandD,2.5
+product_22,Classic Beauty,Beauty,313.13,BrandA,1.7
+product_23,Elegant Shoes,Shoes,179.92,BrandC,2.7
+product_24,Elegant Beauty,Beauty,272.87,BrandD,2.7
+product_25,Stylish Home Decor,Home Decor,25.97,BrandD,4.0
+product_26,Stylish Clothing,Clothing,291.79,BrandC,3.7
+product_27,Stylish Shoes,Shoes,209.78,BrandE,4.6
+product_28,Stylish Shoes,Shoes,226.96,BrandA,2.4
+product_29,Modern Home Decor,Home Decor,299.98,BrandC,2.0
+product_30,Trendy Home Decor,Home Decor,476.5,BrandC,3.2
+product_31,Classic Accessories,Accessories,238.17,BrandD,2.4
+product_32,Classic Home Decor,Home Decor,166.93,BrandB,4.3
+product_33,Classic Clothing,Clothing,307.85,BrandB,4.6
+product_34,Elegant Beauty,Beauty,240.26,BrandE,4.4
+product_35,Classic Shoes,Shoes,400.97,BrandA,1.9
+product_36,Modern Home Decor,Home Decor,482.69,BrandA,3.0
+product_37,Trendy Beauty,Beauty,12.68,BrandD,3.1
+product_38,Trendy Accessories,Accessories,281.94,BrandC,4.3
+product_39,Elegant Clothing,Clothing,408.54,BrandA,1.5
+product_40,Elegant Shoes,Shoes,281.56,BrandC,1.5
+product_41,Elegant Accessories,Accessories,7.34,BrandE,3.4
+product_42,Classic Beauty,Beauty,14.92,BrandB,3.8
+product_43,Classic Accessories,Accessories,243.93,BrandA,3.8
+product_44,Elegant Clothing,Clothing,37.41,BrandD,1.3
+product_45,Trendy Accessories,Accessories,129.39,BrandB,3.0
+product_46,Modern Home Decor,Home Decor,44.86,BrandB,2.3
+product_47,Classic Shoes,Shoes,185.33,BrandE,4.8
+product_48,Modern Shoes,Shoes,468.6,BrandD,3.7
+product_49,Trendy Home Decor,Home Decor,106.47,BrandB,2.4
+product_50,Stylish Accessories,Accessories,100.21,BrandD,4.7
+product_51,Elegant Home Decor,Home Decor,366.54,BrandE,2.5
+product_52,Elegant Shoes,Shoes,416.84,BrandD,2.6
+product_53,Elegant Beauty,Beauty,493.01,BrandD,1.2
+product_54,Stylish Home Decor,Home Decor,158.35,BrandE,3.3
+product_55,Stylish Beauty,Beauty,477.72,BrandA,1.8
+product_56,Modern Beauty,Beauty,340.35,BrandB,4.1
+product_57,Trendy Clothing,Clothing,309.78,BrandE,4.2
+product_58,Classic Shoes,Shoes,328.23,BrandD,1.5
+product_59,Modern Beauty,Beauty,490.15,BrandC,4.3
+product_60,Stylish Accessories,Accessories,325.18,BrandA,3.8
+product_61,Trendy Clothing,Clothing,177.63,BrandB,4.5
+product_62,Classic Shoes,Shoes,306.38,BrandC,3.3
+product_63,Modern Beauty,Beauty,158.93,BrandD,4.2
+product_64,Elegant Clothing,Clothing,193.62,BrandB,1.3
+product_65,Elegant Home Decor,Home Decor,220.04,BrandA,1.9
+product_66,Elegant Beauty,Beauty,41.01,BrandC,2.7
+product_67,Stylish Beauty,Beauty,455.42,BrandA,1.2
+product_68,Stylish Shoes,Shoes,116.92,BrandD,1.1
+product_69,Stylish Clothing,Clothing,347.34,BrandA,1.9
+product_70,Elegant Home Decor,Home Decor,450.48,BrandA,4.1
+product_71,Elegant Shoes,Shoes,451.79,BrandB,2.0
+product_72,Elegant Beauty,Beauty,132.18,BrandD,2.6
+product_73,Elegant Clothing,Clothing,407.85,BrandD,2.2
+product_74,Modern Shoes,Shoes,101.88,BrandA,3.8
+product_75,Classic Accessories,Accessories,186.67,BrandA,2.7
+product_76,Trendy Home Decor,Home Decor,476.2,BrandA,2.0
+product_77,Trendy Shoes,Shoes,395.04,BrandA,1.7
+product_78,Classic Shoes,Shoes,81.79,BrandA,4.9
+product_79,Elegant Clothing,Clothing,235.13,BrandA,4.3
+product_80,Trendy Clothing,Clothing,402.64,BrandB,4.0
+product_81,Trendy Beauty,Beauty,349.74,BrandB,3.3
+product_82,Trendy Accessories,Accessories,330.36,BrandE,2.9
+product_83,Modern Home Decor,Home Decor,388.34,BrandE,2.1
+product_84,Elegant Home Decor,Home Decor,427.02,BrandC,2.9
+product_85,Modern Home Decor,Home Decor,294.99,BrandC,2.1
+product_86,Stylish Shoes,Shoes,387.9,BrandE,2.5
+product_87,Stylish Beauty,Beauty,9.62,BrandB,3.4
+product_88,Stylish Accessories,Accessories,424.39,BrandE,2.8
+product_89,Elegant Clothing,Clothing,306.81,BrandC,3.5
+product_90,Trendy Home Decor,Home Decor,289.85,BrandD,1.2
+product_91,Stylish Accessories,Accessories,472.29,BrandC,2.5
+product_92,Trendy Clothing,Clothing,258.87,BrandE,3.9
+product_93,Trendy Home Decor,Home Decor,445.61,BrandA,3.2
+product_94,Trendy Beauty,Beauty,450.06,BrandA,4.2
+product_95,Trendy Shoes,Shoes,209.72,BrandB,1.7
+product_96,Modern Beauty,Beauty,490.25,BrandC,1.7
+product_97,Classic Clothing,Clothing,362.38,BrandC,2.6
+product_98,Trendy Accessories,Accessories,128.77,BrandC,3.6
+product_99,Modern Beauty,Beauty,346.9,BrandB,3.5
+product_100,Modern Beauty,Beauty,420.6,BrandD,4.9
+product_101,Stylish Clothing,Clothing,99.66,BrandB,1.0
+product_102,Trendy Accessories,Accessories,353.1,BrandE,4.9
+product_103,Elegant Accessories,Accessories,428.84,BrandB,3.4
+product_104,Classic Shoes,Shoes,77.98,BrandB,4.5
+product_105,Trendy Beauty,Beauty,16.47,BrandD,2.9
+product_106,Trendy Accessories,Accessories,357.22,BrandA,5.0
+product_107,Modern Accessories,Accessories,132.92,BrandC,3.2
+product_108,Elegant Accessories,Accessories,341.58,BrandD,1.6
+product_109,Elegant Beauty,Beauty,407.09,BrandA,2.6
+product_110,Stylish Home Decor,Home Decor,448.02,BrandD,2.2
+product_111,Modern Home Decor,Home Decor,25.31,BrandA,3.2
+product_112,Stylish Shoes,Shoes,362.28,BrandC,2.8
+product_113,Modern Clothing,Clothing,329.67,BrandE,3.6
+product_114,Trendy Home Decor,Home Decor,35.83,BrandB,3.5
+product_115,Classic Shoes,Shoes,118.24,BrandE,3.4
+product_116,Elegant Beauty,Beauty,61.8,BrandA,3.2
+product_117,Trendy Shoes,Shoes,41.71,BrandA,4.4
+product_118,Elegant Accessories,Accessories,245.5,BrandB,2.2
+product_119,Modern Shoes,Shoes,437.45,BrandC,3.8
+product_120,Trendy Clothing,Clothing,373.12,BrandA,1.7
+product_121,Elegant Clothing,Clothing,363.05,BrandD,2.0
+product_122,Trendy Accessories,Accessories,354.68,BrandB,4.4
+product_123,Trendy Clothing,Clothing,322.22,BrandB,2.1
+product_124,Elegant Shoes,Shoes,418.42,BrandD,2.9
+product_125,Classic Home Decor,Home Decor,204.83,BrandA,3.0
+product_126,Elegant Clothing,Clothing,373.09,BrandA,3.3
+product_127,Elegant Clothing,Clothing,401.29,BrandB,4.7
+product_128,Modern Shoes,Shoes,408.36,BrandA,2.1
+product_129,Trendy Accessories,Accessories,433.35,BrandE,2.3
+product_130,Modern Shoes,Shoes,94.5,BrandD,1.9
+product_131,Modern Accessories,Accessories,445.45,BrandE,1.6
+product_132,Trendy Clothing,Clothing,29.95,BrandE,4.9
+product_133,Modern Home Decor,Home Decor,220.55,BrandE,3.1
+product_134,Modern Beauty,Beauty,400.54,BrandD,3.2
+product_135,Classic Shoes,Shoes,246.9,BrandB,1.0
+product_136,Trendy Shoes,Shoes,327.69,BrandD,4.2
+product_137,Elegant Shoes,Shoes,91.34,BrandA,2.1
+product_138,Classic Accessories,Accessories,433.15,BrandC,4.7
+product_139,Trendy Beauty,Beauty,115.24,BrandD,4.4
+product_140,Elegant Shoes,Shoes,337.85,BrandD,2.6
+product_141,Elegant Accessories,Accessories,419.32,BrandE,4.6
+product_142,Trendy Shoes,Shoes,277.91,BrandA,4.3
+product_143,Trendy Accessories,Accessories,402.6,BrandE,3.6
+product_144,Modern Shoes,Shoes,170.98,BrandE,4.5
+product_145,Stylish Accessories,Accessories,147.6,BrandA,1.8
+product_146,Elegant Home Decor,Home Decor,55.12,BrandC,4.0
+product_147,Modern Clothing,Clothing,469.34,BrandE,2.2
+product_148,Trendy Beauty,Beauty,374.03,BrandB,4.9
+product_149,Modern Shoes,Shoes,387.24,BrandB,1.3
+product_150,Trendy Accessories,Accessories,134.25,BrandD,3.6
+product_151,Stylish Accessories,Accessories,196.37,BrandB,3.7
+product_152,Trendy Beauty,Beauty,69.47,BrandB,3.7
+product_153,Classic Shoes,Shoes,240.32,BrandB,3.9
+product_154,Elegant Beauty,Beauty,197.1,BrandE,2.1
+product_155,Trendy Home Decor,Home Decor,304.85,BrandD,3.3
+product_156,Stylish Beauty,Beauty,133.61,BrandE,4.2
+product_157,Trendy Home Decor,Home Decor,311.64,BrandA,1.4
+product_158,Elegant Shoes,Shoes,72.48,BrandE,4.3
+product_159,Stylish Shoes,Shoes,308.99,BrandA,2.9
+product_160,Elegant Shoes,Shoes,75.95,BrandD,3.4
+product_161,Classic Accessories,Accessories,20.15,BrandA,1.3
+product_162,Classic Home Decor,Home Decor,413.02,BrandA,4.2
+product_163,Classic Beauty,Beauty,169.99,BrandC,1.0
+product_164,Modern Accessories,Accessories,252.59,BrandE,1.6
+product_165,Stylish Beauty,Beauty,97.8,BrandE,1.4
+product_166,Elegant Beauty,Beauty,86.52,BrandE,1.7
+product_167,Trendy Clothing,Clothing,24.6,BrandA,1.4
+product_168,Stylish Beauty,Beauty,394.21,BrandB,4.2
+product_169,Trendy Home Decor,Home Decor,341.04,BrandE,3.1
+product_170,Stylish Clothing,Clothing,201.87,BrandC,1.9
+product_171,Modern Beauty,Beauty,291.13,BrandC,1.0
+product_172,Trendy Beauty,Beauty,126.03,BrandE,4.8
+product_173,Trendy Clothing,Clothing,367.11,BrandA,2.4
+product_174,Trendy Shoes,Shoes,408.94,BrandE,4.3
+product_175,Modern Clothing,Clothing,476.2,BrandC,2.1
+product_176,Stylish Shoes,Shoes,34.93,BrandA,1.2
+product_177,Trendy Shoes,Shoes,446.5,BrandE,2.6
+product_178,Classic Home Decor,Home Decor,8.98,BrandA,1.3
+product_179,Classic Clothing,Clothing,263.47,BrandB,1.6
+product_180,Trendy Beauty,Beauty,81.13,BrandE,4.8
+product_181,Trendy Clothing,Clothing,385.22,BrandA,3.1
+product_182,Stylish Accessories,Accessories,317.91,BrandC,4.8
+product_183,Classic Clothing,Clothing,157.2,BrandE,4.2
+product_184,Modern Beauty,Beauty,50.55,BrandB,3.9
+product_185,Modern Home Decor,Home Decor,384.86,BrandD,2.5
+product_186,Classic Home Decor,Home Decor,405.14,BrandC,2.2
+product_187,Classic Beauty,Beauty,464.8,BrandE,4.9
+product_188,Classic Clothing,Clothing,31.86,BrandC,2.8
+product_189,Stylish Home Decor,Home Decor,442.96,BrandC,3.1
+product_190,Modern Clothing,Clothing,126.81,BrandA,3.9
+product_191,Classic Shoes,Shoes,39.65,BrandD,1.1
+product_192,Elegant Beauty,Beauty,269.84,BrandD,4.6
+product_193,Modern Shoes,Shoes,286.99,BrandE,2.5
+product_194,Elegant Home Decor,Home Decor,236.29,BrandD,1.8
+product_195,Elegant Home Decor,Home Decor,17.47,BrandB,2.1
+product_196,Trendy Shoes,Shoes,151.75,BrandC,1.5
+product_197,Stylish Accessories,Accessories,290.61,BrandB,1.1
+product_198,Classic Beauty,Beauty,132.59,BrandB,2.1
+product_199,Classic Home Decor,Home Decor,320.42,BrandD,2.4
+product_200,Stylish Shoes,Shoes,346.37,BrandB,3.7
+product_201,Trendy Home Decor,Home Decor,265.34,BrandA,4.6
+product_202,Elegant Clothing,Clothing,364.63,BrandC,4.3
+product_203,Modern Shoes,Shoes,43.18,BrandB,4.3
+product_204,Trendy Beauty,Beauty,44.08,BrandE,1.4
+product_205,Modern Beauty,Beauty,162.85,BrandD,1.3
+product_206,Classic Shoes,Shoes,219.88,BrandB,4.7
+product_207,Stylish Clothing,Clothing,79.09,BrandA,3.7
+product_208,Stylish Beauty,Beauty,199.12,BrandA,3.9
+product_209,Modern Beauty,Beauty,208.26,BrandE,2.5
+product_210,Elegant Beauty,Beauty,461.33,BrandB,2.7
+product_211,Modern Accessories,Accessories,239.47,BrandC,4.5
+product_212,Elegant Shoes,Shoes,86.33,BrandB,2.5
+product_213,Elegant Beauty,Beauty,349.61,BrandD,2.7
+product_214,Modern Shoes,Shoes,145.91,BrandE,4.2
+product_215,Stylish Clothing,Clothing,459.12,BrandD,1.7
+product_216,Modern Home Decor,Home Decor,461.52,BrandD,3.3
+product_217,Elegant Clothing,Clothing,37.19,BrandE,4.1
+product_218,Stylish Accessories,Accessories,165.22,BrandD,1.6
+product_219,Stylish Beauty,Beauty,443.25,BrandE,4.7
+product_220,Trendy Shoes,Shoes,304.26,BrandC,3.3
+product_221,Classic Clothing,Clothing,250.18,BrandD,4.1
+product_222,Modern Home Decor,Home Decor,81.62,BrandC,3.4
+product_223,Classic Clothing,Clothing,302.58,BrandB,3.4
+product_224,Trendy Clothing,Clothing,327.36,BrandA,3.5
+product_225,Elegant Home Decor,Home Decor,498.01,BrandA,3.8
+product_226,Modern Beauty,Beauty,113.62,BrandB,4.0
+product_227,Trendy Shoes,Shoes,65.9,BrandC,2.2
+product_228,Elegant Clothing,Clothing,236.12,BrandD,4.8
+product_229,Elegant Clothing,Clothing,81.96,BrandD,4.6
+product_230,Elegant Clothing,Clothing,307.53,BrandB,4.5
+product_231,Trendy Clothing,Clothing,197.58,BrandE,1.2
+product_232,Modern Clothing,Clothing,292.01,BrandD,2.5
+product_233,Modern Clothing,Clothing,287.21,BrandB,1.3
+product_234,Elegant Accessories,Accessories,162.94,BrandE,4.8
+product_235,Elegant Shoes,Shoes,142.52,BrandE,4.0
+product_236,Classic Home Decor,Home Decor,186.58,BrandE,4.8
+product_237,Trendy Home Decor,Home Decor,469.72,BrandC,2.2
+product_238,Stylish Shoes,Shoes,63.73,BrandD,4.5
+product_239,Stylish Beauty,Beauty,284.24,BrandB,1.7
+product_240,Trendy Accessories,Accessories,430.19,BrandC,2.0
+product_241,Classic Beauty,Beauty,208.99,BrandD,3.2
+product_242,Elegant Shoes,Shoes,402.96,BrandB,3.7
+product_243,Modern Beauty,Beauty,98.41,BrandA,1.5
+product_244,Elegant Accessories,Accessories,329.1,BrandA,2.1
+product_245,Stylish Shoes,Shoes,399.05,BrandD,1.6
+product_246,Trendy Accessories,Accessories,305.82,BrandB,1.2
+product_247,Stylish Clothing,Clothing,145.11,BrandC,1.1
+product_248,Elegant Accessories,Accessories,45.54,BrandA,1.5
+product_249,Elegant Shoes,Shoes,307.83,BrandC,4.3
+product_250,Classic Shoes,Shoes,478.71,BrandA,1.2
+product_251,Modern Beauty,Beauty,207.82,BrandE,4.4
+product_252,Stylish Beauty,Beauty,401.62,BrandB,4.7
+product_253,Modern Accessories,Accessories,336.85,BrandB,2.5
+product_254,Classic Beauty,Beauty,153.43,BrandB,4.1
+product_255,Modern Clothing,Clothing,420.5,BrandB,2.1
+product_256,Stylish Clothing,Clothing,384.91,BrandE,2.3
+product_257,Modern Clothing,Clothing,105.9,BrandD,1.4
+product_258,Stylish Shoes,Shoes,15.93,BrandA,2.0
+product_259,Elegant Shoes,Shoes,251.38,BrandE,4.4
+product_260,Stylish Clothing,Clothing,303.63,BrandB,3.8
+product_261,Modern Clothing,Clothing,43.08,BrandD,1.3
+product_262,Trendy Beauty,Beauty,424.93,BrandC,3.3
+product_263,Modern Home Decor,Home Decor,63.24,BrandD,4.9
+product_264,Classic Home Decor,Home Decor,177.24,BrandA,2.5
+product_265,Classic Home Decor,Home Decor,163.89,BrandE,2.4
+product_266,Classic Accessories,Accessories,476.99,BrandC,4.3
+product_267,Trendy Shoes,Shoes,282.89,BrandA,4.5
+product_268,Classic Accessories,Accessories,466.73,BrandD,4.2
+product_269,Stylish Home Decor,Home Decor,299.85,BrandD,1.1
+product_270,Trendy Accessories,Accessories,277.13,BrandB,1.6
+product_271,Trendy Clothing,Clothing,264.97,BrandC,4.9
+product_272,Elegant Accessories,Accessories,345.07,BrandD,3.1
+product_273,Elegant Clothing,Clothing,286.28,BrandA,2.2
+product_274,Modern Accessories,Accessories,124.88,BrandE,3.0
+product_275,Elegant Accessories,Accessories,327.47,BrandE,4.0
+product_276,Trendy Shoes,Shoes,152.43,BrandE,2.8
+product_277,Classic Home Decor,Home Decor,285.05,BrandB,2.3
+product_278,Trendy Beauty,Beauty,138.72,BrandA,2.2
+product_279,Elegant Accessories,Accessories,303.37,BrandE,2.1
+product_280,Stylish Home Decor,Home Decor,390.25,BrandB,2.6
+product_281,Elegant Shoes,Shoes,231.59,BrandA,4.2
+product_282,Trendy Accessories,Accessories,215.29,BrandB,2.2
+product_283,Trendy Beauty,Beauty,178.77,BrandA,1.6
+product_284,Elegant Clothing,Clothing,465.56,BrandE,3.9
+product_285,Modern Beauty,Beauty,479.0,BrandE,3.1
+product_286,Elegant Beauty,Beauty,253.1,BrandD,1.9
+product_287,Modern Clothing,Clothing,67.27,BrandB,2.6
+product_288,Classic Shoes,Shoes,478.0,BrandA,2.8
+product_289,Elegant Clothing,Clothing,457.88,BrandA,4.8
+product_290,Stylish Accessories,Accessories,456.13,BrandD,2.4
+product_291,Classic Accessories,Accessories,401.78,BrandE,2.6
+product_292,Modern Shoes,Shoes,386.91,BrandB,2.5
+product_293,Elegant Clothing,Clothing,88.57,BrandC,1.5
+product_294,Modern Accessories,Accessories,309.12,BrandC,2.7
+product_295,Elegant Beauty,Beauty,27.51,BrandE,1.2
+product_296,Classic Home Decor,Home Decor,461.49,BrandD,4.7
+product_297,Stylish Shoes,Shoes,231.77,BrandB,2.2
+product_298,Modern Clothing,Clothing,323.6,BrandA,1.9
+product_299,Elegant Home Decor,Home Decor,427.68,BrandD,2.2
+product_300,Stylish Beauty,Beauty,268.3,BrandC,2.5
+product_301,Stylish Accessories,Accessories,307.04,BrandE,2.7
+product_302,Modern Home Decor,Home Decor,386.75,BrandD,4.1
+product_303,Stylish Beauty,Beauty,175.93,BrandE,1.4
+product_304,Classic Clothing,Clothing,334.09,BrandD,1.9
+product_305,Modern Beauty,Beauty,279.07,BrandD,2.0
+product_306,Stylish Home Decor,Home Decor,304.01,BrandD,2.7
+product_307,Elegant Shoes,Shoes,42.82,BrandB,4.0
+product_308,Classic Accessories,Accessories,404.89,BrandC,5.0
+product_309,Classic Clothing,Clothing,211.31,BrandC,4.2
+product_310,Classic Home Decor,Home Decor,320.84,BrandC,3.0
+product_311,Trendy Shoes,Shoes,318.62,BrandA,1.6
+product_312,Stylish Shoes,Shoes,155.57,BrandD,1.6
+product_313,Trendy Shoes,Shoes,359.76,BrandA,4.8
+product_314,Elegant Home Decor,Home Decor,85.43,BrandA,3.4
+product_315,Stylish Accessories,Accessories,354.46,BrandC,4.3
+product_316,Trendy Beauty,Beauty,35.44,BrandA,2.0
+product_317,Classic Clothing,Clothing,239.08,BrandB,3.6
+product_318,Elegant Shoes,Shoes,399.04,BrandD,3.6
+product_319,Classic Accessories,Accessories,435.93,BrandC,2.9
+product_320,Stylish Clothing,Clothing,78.53,BrandD,3.6
+product_321,Trendy Shoes,Shoes,321.95,BrandB,3.0
+product_322,Classic Accessories,Accessories,233.11,BrandC,1.8
+product_323,Classic Beauty,Beauty,70.57,BrandA,4.2
+product_324,Trendy Home Decor,Home Decor,319.53,BrandC,3.6
+product_325,Trendy Home Decor,Home Decor,406.54,BrandD,1.8
+product_326,Modern Clothing,Clothing,162.84,BrandA,3.8
+product_327,Modern Home Decor,Home Decor,472.1,BrandA,3.5
+product_328,Classic Home Decor,Home Decor,415.85,BrandE,4.3
+product_329,Classic Home Decor,Home Decor,15.25,BrandA,2.5
+product_330,Stylish Beauty,Beauty,447.68,BrandD,2.3
+product_331,Modern Shoes,Shoes,469.6,BrandD,1.0
+product_332,Stylish Beauty,Beauty,184.47,BrandD,4.3
+product_333,Trendy Shoes,Shoes,403.02,BrandC,2.7
+product_334,Stylish Clothing,Clothing,430.78,BrandA,3.6
+product_335,Classic Shoes,Shoes,247.99,BrandA,5.0
+product_336,Stylish Clothing,Clothing,400.92,BrandB,3.5
+product_337,Elegant Clothing,Clothing,127.02,BrandE,1.4
+product_338,Classic Accessories,Accessories,491.15,BrandC,3.7
+product_339,Modern Shoes,Shoes,107.87,BrandD,3.5
+product_340,Modern Beauty,Beauty,314.73,BrandC,3.1
+product_341,Classic Shoes,Shoes,442.27,BrandD,4.5
+product_342,Trendy Home Decor,Home Decor,398.61,BrandC,1.1
+product_343,Modern Home Decor,Home Decor,146.07,BrandA,4.7
+product_344,Classic Beauty,Beauty,271.72,BrandA,3.1
+product_345,Modern Shoes,Shoes,88.85,BrandA,2.5
+product_346,Trendy Shoes,Shoes,300.36,BrandA,1.2
+product_347,Classic Home Decor,Home Decor,212.13,BrandE,2.3
+product_348,Stylish Accessories,Accessories,391.44,BrandB,2.2
+product_349,Classic Home Decor,Home Decor,430.04,BrandD,1.5
+product_350,Stylish Beauty,Beauty,199.52,BrandB,4.2
+product_351,Trendy Home Decor,Home Decor,420.61,BrandB,4.0
+product_352,Trendy Accessories,Accessories,308.52,BrandC,1.6
+product_353,Elegant Shoes,Shoes,447.48,BrandE,1.6
+product_354,Elegant Clothing,Clothing,98.67,BrandD,4.0
+product_355,Trendy Beauty,Beauty,229.4,BrandE,1.4
+product_356,Trendy Beauty,Beauty,409.08,BrandB,1.6
+product_357,Classic Home Decor,Home Decor,233.45,BrandA,3.4
+product_358,Modern Accessories,Accessories,246.19,BrandC,4.4
+product_359,Modern Accessories,Accessories,165.82,BrandB,1.8
+product_360,Classic Shoes,Shoes,163.71,BrandB,1.4
+product_361,Elegant Home Decor,Home Decor,489.12,BrandB,4.2
+product_362,Classic Home Decor,Home Decor,47.26,BrandE,3.7
+product_363,Stylish Shoes,Shoes,321.37,BrandE,1.4
+product_364,Elegant Home Decor,Home Decor,347.39,BrandB,4.4
+product_365,Trendy Shoes,Shoes,370.92,BrandB,1.2
+product_366,Modern Clothing,Clothing,444.58,BrandD,4.6
+product_367,Classic Beauty,Beauty,86.63,BrandB,3.8
+product_368,Classic Clothing,Clothing,169.1,BrandD,4.4
+product_369,Stylish Accessories,Accessories,473.22,BrandC,1.7
+product_370,Classic Clothing,Clothing,8.44,BrandD,4.6
+product_371,Stylish Home Decor,Home Decor,76.59,BrandA,4.6
+product_372,Classic Home Decor,Home Decor,320.77,BrandD,3.7
+product_373,Trendy Accessories,Accessories,403.28,BrandA,1.2
+product_374,Trendy Accessories,Accessories,225.7,BrandD,4.6
+product_375,Modern Accessories,Accessories,33.66,BrandC,4.9
+product_376,Modern Home Decor,Home Decor,19.32,BrandC,4.6
+product_377,Classic Beauty,Beauty,201.09,BrandD,4.6
+product_378,Stylish Clothing,Clothing,477.02,BrandA,4.5
+product_379,Stylish Clothing,Clothing,173.9,BrandD,4.9
+product_380,Stylish Beauty,Beauty,357.62,BrandE,4.0
+product_381,Modern Clothing,Clothing,99.72,BrandB,2.6
+product_382,Stylish Beauty,Beauty,367.34,BrandB,3.7
+product_383,Modern Beauty,Beauty,143.05,BrandA,2.4
+product_384,Stylish Beauty,Beauty,271.02,BrandB,3.6
+product_385,Modern Accessories,Accessories,90.08,BrandD,4.2
+product_386,Stylish Clothing,Clothing,236.3,BrandD,2.3
+product_387,Stylish Shoes,Shoes,56.75,BrandC,2.1
+product_388,Classic Shoes,Shoes,176.75,BrandD,2.9
+product_389,Modern Accessories,Accessories,442.9,BrandD,3.7
+product_390,Modern Home Decor,Home Decor,295.7,BrandD,3.3
+product_391,Modern Beauty,Beauty,320.13,BrandD,3.8
+product_392,Trendy Home Decor,Home Decor,10.8,BrandD,4.8
+product_393,Modern Home Decor,Home Decor,223.63,BrandD,3.2
+product_394,Classic Shoes,Shoes,358.09,BrandE,3.2
+product_395,Trendy Shoes,Shoes,62.3,BrandD,2.0
+product_396,Stylish Clothing,Clothing,320.81,BrandB,3.7
+product_397,Elegant Clothing,Clothing,440.28,BrandA,1.2
+product_398,Trendy Beauty,Beauty,92.18,BrandB,3.0
+product_399,Classic Home Decor,Home Decor,435.8,BrandA,3.6
+product_400,Modern Accessories,Accessories,81.68,BrandB,2.1
+product_401,Stylish Home Decor,Home Decor,81.22,BrandB,3.5
+product_402,Elegant Beauty,Beauty,149.13,BrandB,3.7
+product_403,Trendy Shoes,Shoes,407.83,BrandE,4.3
+product_404,Trendy Beauty,Beauty,216.15,BrandD,3.1
+product_405,Stylish Beauty,Beauty,50.34,BrandB,3.0
+product_406,Elegant Beauty,Beauty,381.32,BrandD,1.7
+product_407,Stylish Home Decor,Home Decor,324.53,BrandA,3.9
+product_408,Trendy Shoes,Shoes,493.58,BrandE,2.7
+product_409,Trendy Accessories,Accessories,213.98,BrandB,1.1
+product_410,Trendy Shoes,Shoes,113.06,BrandE,4.7
+product_411,Stylish Home Decor,Home Decor,367.45,BrandE,1.2
+product_412,Trendy Shoes,Shoes,401.69,BrandD,1.3
+product_413,Trendy Shoes,Shoes,378.43,BrandE,4.4
+product_414,Elegant Home Decor,Home Decor,51.05,BrandA,4.0
+product_415,Trendy Shoes,Shoes,359.97,BrandC,4.0
+product_416,Classic Accessories,Accessories,37.68,BrandA,3.1
+product_417,Stylish Accessories,Accessories,496.92,BrandA,1.8
+product_418,Modern Beauty,Beauty,384.83,BrandA,1.6
+product_419,Elegant Accessories,Accessories,296.47,BrandC,2.6
+product_420,Classic Shoes,Shoes,253.27,BrandA,1.1
+product_421,Classic Beauty,Beauty,292.01,BrandA,2.5
+product_422,Classic Shoes,Shoes,131.34,BrandD,3.3
+product_423,Modern Beauty,Beauty,79.09,BrandC,3.5
+product_424,Modern Shoes,Shoes,302.78,BrandD,3.0
+product_425,Elegant Beauty,Beauty,212.59,BrandA,2.5
+product_426,Stylish Shoes,Shoes,60.79,BrandE,4.9
+product_427,Stylish Clothing,Clothing,346.15,BrandC,1.3
+product_428,Stylish Home Decor,Home Decor,320.15,BrandD,5.0
+product_429,Classic Shoes,Shoes,16.32,BrandD,4.6
+product_430,Modern Shoes,Shoes,384.54,BrandB,3.3
+product_431,Classic Shoes,Shoes,239.72,BrandD,1.2
+product_432,Stylish Accessories,Accessories,291.73,BrandE,2.8
+product_433,Elegant Home Decor,Home Decor,242.28,BrandB,2.6
+product_434,Modern Clothing,Clothing,182.8,BrandC,3.7
+product_435,Elegant Shoes,Shoes,340.0,BrandA,1.6
+product_436,Modern Shoes,Shoes,402.06,BrandA,3.2
+product_437,Stylish Beauty,Beauty,427.01,BrandE,5.0
+product_438,Modern Shoes,Shoes,495.8,BrandB,2.4
+product_439,Modern Shoes,Shoes,311.21,BrandB,2.9
+product_440,Elegant Beauty,Beauty,313.73,BrandB,3.6
+product_441,Elegant Home Decor,Home Decor,361.0,BrandB,4.9
+product_442,Trendy Home Decor,Home Decor,236.02,BrandE,4.2
+product_443,Trendy Home Decor,Home Decor,494.46,BrandE,3.5
+product_444,Elegant Beauty,Beauty,294.9,BrandE,3.7
+product_445,Modern Shoes,Shoes,390.36,BrandD,4.2
+product_446,Classic Clothing,Clothing,202.15,BrandA,4.9
+product_447,Modern Clothing,Clothing,466.73,BrandC,3.3
+product_448,Trendy Beauty,Beauty,252.06,BrandC,2.9
+product_449,Trendy Clothing,Clothing,436.51,BrandC,2.3
+product_450,Stylish Clothing,Clothing,428.92,BrandA,3.8
+product_451,Trendy Clothing,Clothing,49.88,BrandC,1.9
+product_452,Trendy Shoes,Shoes,26.03,BrandD,3.9
+product_453,Elegant Home Decor,Home Decor,60.55,BrandB,3.1
+product_454,Stylish Beauty,Beauty,11.09,BrandD,4.0
+product_455,Trendy Home Decor,Home Decor,270.66,BrandA,4.3
+product_456,Classic Clothing,Clothing,202.71,BrandD,2.4
+product_457,Modern Clothing,Clothing,293.19,BrandA,1.0
+product_458,Trendy Beauty,Beauty,31.27,BrandA,3.1
+product_459,Modern Beauty,Beauty,436.94,BrandB,3.4
+product_460,Trendy Accessories,Accessories,337.92,BrandC,3.9
+product_461,Trendy Home Decor,Home Decor,397.15,BrandD,3.5
+product_462,Elegant Accessories,Accessories,164.91,BrandD,4.9
+product_463,Modern Accessories,Accessories,185.54,BrandE,1.8
+product_464,Modern Shoes,Shoes,110.25,BrandB,1.5
+product_465,Trendy Accessories,Accessories,73.37,BrandD,3.5
+product_466,Classic Beauty,Beauty,455.0,BrandD,1.8
+product_467,Trendy Beauty,Beauty,104.0,BrandC,1.1
+product_468,Elegant Shoes,Shoes,418.84,BrandD,2.0
+product_469,Modern Beauty,Beauty,162.1,BrandB,4.5
+product_470,Stylish Accessories,Accessories,138.71,BrandB,4.3
+product_471,Modern Clothing,Clothing,223.47,BrandC,4.6
+product_472,Modern Accessories,Accessories,194.9,BrandB,3.4
+product_473,Modern Shoes,Shoes,21.34,BrandE,2.8
+product_474,Stylish Beauty,Beauty,445.72,BrandC,2.3
+product_475,Classic Shoes,Shoes,32.88,BrandB,3.7
+product_476,Modern Shoes,Shoes,60.61,BrandA,3.0
+product_477,Trendy Shoes,Shoes,349.8,BrandC,4.6
+product_478,Stylish Home Decor,Home Decor,127.82,BrandD,4.9
+product_479,Elegant Accessories,Accessories,307.27,BrandA,3.1
+product_480,Elegant Home Decor,Home Decor,53.61,BrandC,4.2
+product_481,Classic Beauty,Beauty,405.9,BrandA,3.8
+product_482,Classic Home Decor,Home Decor,172.25,BrandD,4.9
+product_483,Trendy Home Decor,Home Decor,219.54,BrandA,4.3
+product_484,Trendy Home Decor,Home Decor,301.16,BrandD,2.7
+product_485,Stylish Beauty,Beauty,175.95,BrandD,4.9
+product_486,Stylish Beauty,Beauty,431.11,BrandA,2.9
+product_487,Elegant Clothing,Clothing,453.95,BrandC,3.0
+product_488,Classic Clothing,Clothing,89.88,BrandB,3.2
+product_489,Modern Beauty,Beauty,442.57,BrandD,4.1
+product_490,Trendy Clothing,Clothing,451.79,BrandB,2.0
+product_491,Modern Accessories,Accessories,348.1,BrandE,3.9
+product_492,Trendy Accessories,Accessories,293.35,BrandB,3.9
+product_493,Elegant Beauty,Beauty,390.68,BrandB,3.4
+product_494,Trendy Home Decor,Home Decor,311.21,BrandB,1.4
+product_495,Classic Accessories,Accessories,148.59,BrandD,3.0
+product_496,Modern Accessories,Accessories,112.87,BrandA,2.6
+product_497,Elegant Accessories,Accessories,436.2,BrandA,4.5
+product_498,Classic Beauty,Beauty,291.22,BrandB,3.9
+product_499,Stylish Accessories,Accessories,100.69,BrandA,1.1
+product_500,Elegant Beauty,Beauty,43.33,BrandD,4.9
+product_501,Stylish Clothing,Clothing,87.3,BrandD,2.4
+product_502,Trendy Home Decor,Home Decor,159.16,BrandA,3.2
+product_503,Trendy Accessories,Accessories,73.13,BrandA,4.6
+product_504,Stylish Beauty,Beauty,360.67,BrandC,4.1
+product_505,Modern Accessories,Accessories,332.12,BrandC,2.7
+product_506,Classic Accessories,Accessories,84.27,BrandC,1.9
+product_507,Trendy Home Decor,Home Decor,170.82,BrandD,4.1
+product_508,Modern Home Decor,Home Decor,416.3,BrandD,1.2
+product_509,Classic Home Decor,Home Decor,295.6,BrandA,3.5
+product_510,Classic Beauty,Beauty,308.67,BrandB,4.2
+product_511,Elegant Shoes,Shoes,415.68,BrandD,3.9
+product_512,Modern Beauty,Beauty,120.25,BrandB,4.4
+product_513,Elegant Beauty,Beauty,483.5,BrandD,2.7
+product_514,Stylish Shoes,Shoes,112.01,BrandC,2.1
+product_515,Stylish Beauty,Beauty,86.64,BrandC,2.1
+product_516,Modern Shoes,Shoes,424.78,BrandE,4.1
+product_517,Trendy Accessories,Accessories,358.26,BrandD,3.3
+product_518,Stylish Home Decor,Home Decor,161.73,BrandD,1.5
+product_519,Classic Shoes,Shoes,22.3,BrandC,3.4
+product_520,Modern Clothing,Clothing,178.35,BrandE,3.1
+product_521,Elegant Accessories,Accessories,461.14,BrandB,1.9
+product_522,Modern Clothing,Clothing,333.78,BrandA,1.4
+product_523,Elegant Accessories,Accessories,226.36,BrandE,1.7
+product_524,Elegant Accessories,Accessories,308.84,BrandB,1.1
+product_525,Elegant Clothing,Clothing,429.68,BrandC,1.9
+product_526,Classic Beauty,Beauty,474.71,BrandD,3.7
+product_527,Modern Accessories,Accessories,141.63,BrandE,3.9
+product_528,Trendy Clothing,Clothing,187.05,BrandC,1.9
+product_529,Classic Clothing,Clothing,272.82,BrandB,3.4
+product_530,Classic Home Decor,Home Decor,356.78,BrandC,1.3
+product_531,Stylish Clothing,Clothing,16.58,BrandA,1.7
+product_532,Trendy Clothing,Clothing,330.85,BrandB,3.5
+product_533,Stylish Shoes,Shoes,46.11,BrandE,1.8
+product_534,Trendy Clothing,Clothing,491.21,BrandB,2.7
+product_535,Classic Shoes,Shoes,447.14,BrandA,2.5
+product_536,Modern Shoes,Shoes,42.66,BrandA,4.7
+product_537,Classic Accessories,Accessories,74.42,BrandE,1.9
+product_538,Stylish Home Decor,Home Decor,46.93,BrandD,2.0
+product_539,Stylish Beauty,Beauty,413.49,BrandC,1.9
+product_540,Modern Beauty,Beauty,447.48,BrandE,4.0
+product_541,Modern Accessories,Accessories,368.69,BrandB,2.4
+product_542,Classic Home Decor,Home Decor,495.03,BrandA,2.2
+product_543,Modern Shoes,Shoes,106.37,BrandA,1.6
+product_544,Trendy Accessories,Accessories,230.65,BrandA,4.4
+product_545,Classic Beauty,Beauty,475.35,BrandE,2.6
+product_546,Trendy Home Decor,Home Decor,380.86,BrandD,2.0
+product_547,Trendy Accessories,Accessories,102.55,BrandB,1.4
+product_548,Modern Shoes,Shoes,107.52,BrandB,1.9
+product_549,Trendy Clothing,Clothing,73.66,BrandA,3.2
+product_550,Trendy Clothing,Clothing,179.43,BrandD,4.9
+product_551,Elegant Clothing,Clothing,178.47,BrandA,3.1
+product_552,Classic Accessories,Accessories,360.07,BrandD,3.2
+product_553,Elegant Shoes,Shoes,411.68,BrandC,2.4
+product_554,Classic Home Decor,Home Decor,99.78,BrandD,4.7
+product_555,Elegant Accessories,Accessories,222.14,BrandA,2.4
+product_556,Elegant Clothing,Clothing,386.08,BrandB,1.1
+product_557,Stylish Clothing,Clothing,207.63,BrandD,1.2
+product_558,Elegant Shoes,Shoes,213.64,BrandE,1.4
+product_559,Trendy Shoes,Shoes,106.55,BrandC,1.2
+product_560,Stylish Clothing,Clothing,11.42,BrandC,3.2
+product_561,Stylish Shoes,Shoes,148.09,BrandC,2.2
+product_562,Trendy Accessories,Accessories,26.72,BrandC,3.5
+product_563,Elegant Home Decor,Home Decor,219.75,BrandB,1.9
+product_564,Stylish Accessories,Accessories,148.84,BrandA,1.8
+product_565,Stylish Clothing,Clothing,294.33,BrandD,2.0
+product_566,Elegant Home Decor,Home Decor,71.09,BrandD,1.6
+product_567,Classic Beauty,Beauty,287.31,BrandB,4.8
+product_568,Stylish Clothing,Clothing,209.06,BrandC,5.0
+product_569,Modern Beauty,Beauty,463.64,BrandD,2.0
+product_570,Elegant Shoes,Shoes,137.52,BrandA,4.1
+product_571,Trendy Home Decor,Home Decor,135.48,BrandD,1.7
+product_572,Stylish Home Decor,Home Decor,188.59,BrandE,3.1
+product_573,Trendy Accessories,Accessories,397.38,BrandC,2.6
+product_574,Elegant Beauty,Beauty,349.84,BrandE,1.3
+product_575,Stylish Home Decor,Home Decor,79.19,BrandA,3.4
+product_576,Trendy Shoes,Shoes,495.41,BrandA,4.0
+product_577,Modern Shoes,Shoes,478.81,BrandB,4.3
+product_578,Classic Clothing,Clothing,27.6,BrandC,3.3
+product_579,Classic Beauty,Beauty,160.25,BrandE,2.8
+product_580,Elegant Clothing,Clothing,170.22,BrandA,1.1
+product_581,Modern Beauty,Beauty,376.64,BrandB,4.3
+product_582,Modern Beauty,Beauty,18.78,BrandB,2.4
+product_583,Modern Home Decor,Home Decor,289.49,BrandD,1.7
+product_584,Modern Beauty,Beauty,465.28,BrandD,4.0
+product_585,Trendy Home Decor,Home Decor,148.06,BrandA,1.4
+product_586,Stylish Accessories,Accessories,68.53,BrandD,1.4
+product_587,Elegant Clothing,Clothing,253.57,BrandE,3.4
+product_588,Stylish Beauty,Beauty,117.86,BrandB,1.8
+product_589,Trendy Home Decor,Home Decor,386.71,BrandD,3.1
+product_590,Classic Accessories,Accessories,273.26,BrandA,1.1
+product_591,Trendy Shoes,Shoes,227.08,BrandA,1.3
+product_592,Modern Shoes,Shoes,114.27,BrandC,2.8
+product_593,Elegant Home Decor,Home Decor,105.14,BrandD,4.2
+product_594,Stylish Accessories,Accessories,136.88,BrandB,3.8
+product_595,Classic Beauty,Beauty,167.72,BrandA,1.6
+product_596,Stylish Beauty,Beauty,279.71,BrandB,3.8
+product_597,Stylish Clothing,Clothing,139.62,BrandB,4.0
+product_598,Elegant Beauty,Beauty,117.16,BrandA,1.4
+product_599,Classic Shoes,Shoes,145.24,BrandB,4.0
+product_600,Modern Accessories,Accessories,115.85,BrandD,3.0
+product_601,Modern Home Decor,Home Decor,156.01,BrandB,4.8
+product_602,Classic Accessories,Accessories,189.47,BrandC,1.5
+product_603,Modern Clothing,Clothing,113.12,BrandC,2.7
+product_604,Elegant Shoes,Shoes,168.26,BrandE,1.9
+product_605,Trendy Home Decor,Home Decor,203.99,BrandD,2.4
+product_606,Classic Clothing,Clothing,335.24,BrandA,4.9
+product_607,Classic Shoes,Shoes,80.06,BrandD,4.3
+product_608,Classic Home Decor,Home Decor,212.24,BrandD,2.9
+product_609,Elegant Clothing,Clothing,172.58,BrandE,4.2
+product_610,Trendy Clothing,Clothing,363.48,BrandC,2.9
+product_611,Classic Home Decor,Home Decor,108.44,BrandE,2.9
+product_612,Elegant Beauty,Beauty,267.21,BrandB,4.2
+product_613,Stylish Home Decor,Home Decor,134.77,BrandB,3.4
+product_614,Elegant Shoes,Shoes,149.99,BrandB,4.2
+product_615,Elegant Beauty,Beauty,307.15,BrandE,1.5
+product_616,Stylish Home Decor,Home Decor,366.7,BrandB,4.2
+product_617,Trendy Shoes,Shoes,61.05,BrandE,3.1
+product_618,Modern Accessories,Accessories,107.18,BrandA,1.0
+product_619,Trendy Beauty,Beauty,356.74,BrandD,3.1
+product_620,Trendy Clothing,Clothing,450.04,BrandD,3.8
+product_621,Trendy Shoes,Shoes,103.69,BrandE,2.3
+product_622,Trendy Home Decor,Home Decor,329.57,BrandD,2.2
+product_623,Trendy Home Decor,Home Decor,262.65,BrandB,2.3
+product_624,Stylish Accessories,Accessories,137.9,BrandD,1.5
+product_625,Elegant Accessories,Accessories,70.58,BrandE,4.1
+product_626,Elegant Accessories,Accessories,370.26,BrandC,1.9
+product_627,Trendy Shoes,Shoes,463.18,BrandB,2.3
+product_628,Modern Clothing,Clothing,258.36,BrandC,4.6
+product_629,Classic Shoes,Shoes,77.4,BrandE,3.1
+product_630,Modern Home Decor,Home Decor,298.36,BrandD,4.9
+product_631,Elegant Accessories,Accessories,36.81,BrandC,1.7
+product_632,Modern Shoes,Shoes,444.64,BrandC,5.0
+product_633,Classic Shoes,Shoes,325.12,BrandE,3.1
+product_634,Stylish Beauty,Beauty,89.06,BrandD,2.3
+product_635,Stylish Shoes,Shoes,289.84,BrandA,1.7
+product_636,Modern Accessories,Accessories,430.37,BrandB,3.0
+product_637,Trendy Accessories,Accessories,335.38,BrandD,3.8
+product_638,Stylish Shoes,Shoes,21.86,BrandA,3.3
+product_639,Trendy Home Decor,Home Decor,340.02,BrandB,3.5
+product_640,Trendy Accessories,Accessories,492.48,BrandA,4.3
+product_641,Stylish Shoes,Shoes,396.9,BrandC,4.2
+product_642,Stylish Home Decor,Home Decor,144.13,BrandD,4.0
+product_643,Stylish Beauty,Beauty,95.92,BrandC,2.5
+product_644,Classic Home Decor,Home Decor,435.17,BrandA,1.2
+product_645,Modern Home Decor,Home Decor,391.6,BrandC,2.2
+product_646,Stylish Accessories,Accessories,80.13,BrandC,2.8
+product_647,Stylish Accessories,Accessories,267.78,BrandE,1.2
+product_648,Classic Shoes,Shoes,77.77,BrandA,4.5
+product_649,Modern Shoes,Shoes,318.93,BrandE,2.4
+product_650,Stylish Shoes,Shoes,85.85,BrandE,1.1
+product_651,Modern Beauty,Beauty,199.58,BrandA,3.4
+product_652,Modern Beauty,Beauty,97.78,BrandB,1.2
+product_653,Stylish Shoes,Shoes,362.59,BrandA,1.1
+product_654,Elegant Clothing,Clothing,228.7,BrandB,2.1
+product_655,Elegant Shoes,Shoes,129.21,BrandB,2.0
+product_656,Trendy Shoes,Shoes,220.66,BrandA,2.9
+product_657,Trendy Beauty,Beauty,208.52,BrandC,4.2
+product_658,Stylish Clothing,Clothing,262.62,BrandC,2.9
+product_659,Stylish Shoes,Shoes,411.29,BrandB,4.3
+product_660,Stylish Clothing,Clothing,75.14,BrandD,1.8
+product_661,Stylish Clothing,Clothing,281.92,BrandB,2.2
+product_662,Modern Shoes,Shoes,466.47,BrandB,4.7
+product_663,Trendy Shoes,Shoes,158.63,BrandC,4.2
+product_664,Elegant Shoes,Shoes,367.33,BrandC,2.0
+product_665,Stylish Beauty,Beauty,461.03,BrandD,4.7
+product_666,Trendy Home Decor,Home Decor,288.73,BrandE,1.3
+product_667,Elegant Accessories,Accessories,414.08,BrandE,2.3
+product_668,Modern Accessories,Accessories,456.16,BrandA,4.9
+product_669,Stylish Clothing,Clothing,234.05,BrandA,4.5
+product_670,Stylish Shoes,Shoes,50.85,BrandC,2.8
+product_671,Elegant Home Decor,Home Decor,80.09,BrandA,2.6
+product_672,Elegant Shoes,Shoes,6.35,BrandE,4.2
+product_673,Stylish Clothing,Clothing,338.47,BrandC,1.9
+product_674,Trendy Home Decor,Home Decor,321.99,BrandA,2.9
+product_675,Stylish Clothing,Clothing,199.03,BrandD,2.0
+product_676,Modern Home Decor,Home Decor,80.46,BrandA,4.1
+product_677,Trendy Home Decor,Home Decor,99.14,BrandB,2.1
+product_678,Modern Clothing,Clothing,175.83,BrandE,4.0
+product_679,Trendy Shoes,Shoes,280.08,BrandC,1.3
+product_680,Modern Accessories,Accessories,365.55,BrandC,3.4
+product_681,Elegant Home Decor,Home Decor,400.72,BrandE,2.9
+product_682,Modern Accessories,Accessories,459.87,BrandE,2.8
+product_683,Trendy Beauty,Beauty,434.36,BrandA,2.2
+product_684,Classic Clothing,Clothing,374.68,BrandB,2.9
+product_685,Classic Clothing,Clothing,307.12,BrandD,3.6
+product_686,Classic Beauty,Beauty,324.03,BrandA,4.9
+product_687,Stylish Beauty,Beauty,52.07,BrandC,2.4
+product_688,Classic Clothing,Clothing,487.32,BrandA,2.5
+product_689,Stylish Accessories,Accessories,243.89,BrandB,1.4
+product_690,Classic Shoes,Shoes,116.74,BrandC,4.2
+product_691,Elegant Home Decor,Home Decor,264.54,BrandC,3.3
+product_692,Stylish Accessories,Accessories,47.16,BrandA,1.9
+product_693,Stylish Beauty,Beauty,456.76,BrandA,4.0
+product_694,Classic Clothing,Clothing,142.4,BrandA,1.5
+product_695,Modern Clothing,Clothing,422.46,BrandC,2.6
+product_696,Stylish Home Decor,Home Decor,116.52,BrandB,4.6
+product_697,Trendy Clothing,Clothing,78.22,BrandC,3.3
+product_698,Stylish Beauty,Beauty,137.87,BrandB,1.6
+product_699,Elegant Accessories,Accessories,296.02,BrandB,1.8
+product_700,Classic Shoes,Shoes,279.72,BrandA,4.2
+product_701,Classic Home Decor,Home Decor,237.84,BrandC,4.4
+product_702,Classic Beauty,Beauty,353.1,BrandE,2.1
+product_703,Trendy Beauty,Beauty,225.81,BrandA,4.6
+product_704,Modern Shoes,Shoes,27.85,BrandD,1.2
+product_705,Stylish Shoes,Shoes,446.59,BrandC,1.8
+product_706,Trendy Accessories,Accessories,78.28,BrandA,4.8
+product_707,Trendy Clothing,Clothing,311.49,BrandB,1.2
+product_708,Trendy Shoes,Shoes,379.26,BrandE,3.2
+product_709,Classic Accessories,Accessories,427.55,BrandE,2.8
+product_710,Stylish Accessories,Accessories,267.33,BrandB,3.1
+product_711,Modern Beauty,Beauty,214.8,BrandD,1.7
+product_712,Classic Shoes,Shoes,375.11,BrandC,3.6
+product_713,Stylish Accessories,Accessories,211.57,BrandC,3.9
+product_714,Modern Accessories,Accessories,96.34,BrandC,2.5
+product_715,Modern Accessories,Accessories,281.37,BrandD,2.9
+product_716,Classic Clothing,Clothing,132.75,BrandD,1.9
+product_717,Classic Clothing,Clothing,393.83,BrandB,2.4
+product_718,Modern Home Decor,Home Decor,290.95,BrandD,4.6
+product_719,Stylish Home Decor,Home Decor,327.9,BrandE,2.3
+product_720,Elegant Beauty,Beauty,18.17,BrandE,4.9
+product_721,Trendy Home Decor,Home Decor,479.72,BrandE,2.2
+product_722,Classic Home Decor,Home Decor,463.91,BrandE,4.4
+product_723,Stylish Clothing,Clothing,204.9,BrandA,2.6
+product_724,Trendy Clothing,Clothing,269.86,BrandB,1.9
+product_725,Stylish Shoes,Shoes,170.96,BrandC,4.7
+product_726,Modern Clothing,Clothing,451.11,BrandD,1.1
+product_727,Stylish Clothing,Clothing,21.87,BrandC,1.5
+product_728,Classic Home Decor,Home Decor,86.97,BrandB,4.5
+product_729,Stylish Beauty,Beauty,277.22,BrandB,2.0
+product_730,Classic Beauty,Beauty,73.4,BrandA,3.8
+product_731,Stylish Home Decor,Home Decor,192.32,BrandA,2.9
+product_732,Classic Accessories,Accessories,68.73,BrandE,3.2
+product_733,Elegant Shoes,Shoes,147.61,BrandA,3.5
+product_734,Modern Clothing,Clothing,426.52,BrandE,3.1
+product_735,Stylish Clothing,Clothing,150.41,BrandA,3.3
+product_736,Trendy Shoes,Shoes,373.91,BrandD,2.0
+product_737,Modern Shoes,Shoes,123.02,BrandD,1.6
+product_738,Trendy Accessories,Accessories,68.21,BrandE,4.5
+product_739,Stylish Shoes,Shoes,335.35,BrandE,1.1
+product_740,Modern Accessories,Accessories,124.0,BrandC,2.9
+product_741,Trendy Shoes,Shoes,324.62,BrandB,1.1
+product_742,Elegant Clothing,Clothing,333.64,BrandE,4.7
+product_743,Trendy Home Decor,Home Decor,411.19,BrandC,4.8
+product_744,Classic Shoes,Shoes,212.05,BrandD,1.1
+product_745,Modern Clothing,Clothing,439.25,BrandD,2.6
+product_746,Elegant Beauty,Beauty,181.06,BrandE,4.6
+product_747,Trendy Shoes,Shoes,426.57,BrandB,4.3
+product_748,Modern Clothing,Clothing,354.37,BrandD,4.9
+product_749,Stylish Beauty,Beauty,440.39,BrandD,3.4
+product_750,Stylish Clothing,Clothing,278.68,BrandC,2.7
+product_751,Classic Shoes,Shoes,254.35,BrandE,3.1
+product_752,Trendy Beauty,Beauty,432.43,BrandA,1.3
+product_753,Trendy Clothing,Clothing,127.82,BrandB,2.0
+product_754,Classic Clothing,Clothing,275.27,BrandD,3.0
+product_755,Classic Accessories,Accessories,253.6,BrandE,4.7
+product_756,Modern Beauty,Beauty,234.64,BrandA,2.0
+product_757,Modern Beauty,Beauty,26.43,BrandA,1.9
+product_758,Classic Clothing,Clothing,419.14,BrandD,2.2
+product_759,Classic Shoes,Shoes,62.94,BrandB,3.4
+product_760,Trendy Home Decor,Home Decor,320.35,BrandD,2.4
+product_761,Elegant Accessories,Accessories,331.22,BrandD,3.0
+product_762,Trendy Beauty,Beauty,91.08,BrandC,2.3
+product_763,Stylish Shoes,Shoes,11.62,BrandD,3.1
+product_764,Stylish Clothing,Clothing,100.31,BrandB,3.4
+product_765,Classic Beauty,Beauty,273.46,BrandD,3.4
+product_766,Elegant Accessories,Accessories,449.25,BrandD,4.9
+product_767,Classic Shoes,Shoes,218.69,BrandC,2.8
+product_768,Trendy Beauty,Beauty,492.25,BrandC,2.1
+product_769,Trendy Beauty,Beauty,327.17,BrandA,1.5
+product_770,Trendy Clothing,Clothing,189.44,BrandB,4.0
+product_771,Classic Accessories,Accessories,102.26,BrandC,4.8
+product_772,Elegant Home Decor,Home Decor,31.01,BrandC,2.7
+product_773,Stylish Accessories,Accessories,201.76,BrandD,1.5
+product_774,Stylish Clothing,Clothing,493.85,BrandD,4.9
+product_775,Classic Beauty,Beauty,403.59,BrandC,4.0
+product_776,Stylish Shoes,Shoes,363.2,BrandB,1.6
+product_777,Trendy Clothing,Clothing,482.58,BrandE,2.5
+product_778,Trendy Shoes,Shoes,328.98,BrandD,1.0
+product_779,Stylish Shoes,Shoes,394.34,BrandB,1.0
+product_780,Trendy Shoes,Shoes,406.72,BrandC,4.1
+product_781,Stylish Shoes,Shoes,487.98,BrandE,4.3
+product_782,Stylish Home Decor,Home Decor,161.87,BrandD,4.8
+product_783,Modern Clothing,Clothing,376.5,BrandB,3.7
+product_784,Elegant Home Decor,Home Decor,94.21,BrandB,4.9
+product_785,Stylish Clothing,Clothing,460.96,BrandC,3.9
+product_786,Classic Beauty,Beauty,295.15,BrandE,1.9
+product_787,Stylish Shoes,Shoes,188.27,BrandD,3.9
+product_788,Trendy Accessories,Accessories,226.66,BrandB,3.4
+product_789,Stylish Beauty,Beauty,429.99,BrandC,1.5
+product_790,Stylish Accessories,Accessories,60.49,BrandD,1.5
+product_791,Stylish Home Decor,Home Decor,499.79,BrandC,3.8
+product_792,Classic Shoes,Shoes,128.1,BrandB,3.9
+product_793,Trendy Home Decor,Home Decor,164.47,BrandD,2.3
+product_794,Elegant Shoes,Shoes,271.58,BrandE,3.8
+product_795,Elegant Beauty,Beauty,144.69,BrandB,2.3
+product_796,Trendy Beauty,Beauty,29.95,BrandA,2.0
+product_797,Stylish Beauty,Beauty,285.45,BrandE,2.2
+product_798,Stylish Shoes,Shoes,290.22,BrandE,1.8
+product_799,Elegant Shoes,Shoes,203.93,BrandA,2.6
+product_800,Trendy Beauty,Beauty,166.25,BrandC,3.0
+product_801,Stylish Clothing,Clothing,328.13,BrandD,3.0
+product_802,Modern Home Decor,Home Decor,261.84,BrandE,4.3
+product_803,Trendy Home Decor,Home Decor,142.28,BrandC,2.0
+product_804,Stylish Shoes,Shoes,298.49,BrandD,2.8
+product_805,Modern Clothing,Clothing,127.02,BrandC,3.2
+product_806,Modern Beauty,Beauty,119.56,BrandB,3.3
+product_807,Modern Home Decor,Home Decor,378.32,BrandD,2.7
+product_808,Elegant Accessories,Accessories,93.5,BrandB,1.9
+product_809,Elegant Accessories,Accessories,44.27,BrandA,1.8
+product_810,Stylish Accessories,Accessories,306.49,BrandB,4.7
+product_811,Modern Beauty,Beauty,422.73,BrandA,2.6
+product_812,Classic Home Decor,Home Decor,423.45,BrandB,3.3
+product_813,Elegant Beauty,Beauty,223.34,BrandA,4.3
+product_814,Modern Clothing,Clothing,132.47,BrandC,4.2
+product_815,Stylish Clothing,Clothing,356.99,BrandB,1.1
+product_816,Stylish Clothing,Clothing,52.85,BrandD,1.6
+product_817,Trendy Clothing,Clothing,301.09,BrandC,1.4
+product_818,Modern Shoes,Shoes,220.23,BrandE,3.4
+product_819,Stylish Clothing,Clothing,20.98,BrandD,1.1
+product_820,Trendy Clothing,Clothing,60.05,BrandB,4.7
+product_821,Trendy Home Decor,Home Decor,11.97,BrandB,3.4
+product_822,Classic Beauty,Beauty,66.71,BrandC,4.3
+product_823,Modern Accessories,Accessories,64.79,BrandE,3.6
+product_824,Modern Beauty,Beauty,43.4,BrandD,3.3
+product_825,Elegant Beauty,Beauty,425.29,BrandA,1.7
+product_826,Modern Shoes,Shoes,158.05,BrandE,2.7
+product_827,Trendy Home Decor,Home Decor,258.31,BrandD,2.6
+product_828,Trendy Clothing,Clothing,343.75,BrandE,2.6
+product_829,Elegant Beauty,Beauty,431.56,BrandE,1.3
+product_830,Classic Beauty,Beauty,328.57,BrandA,4.2
+product_831,Modern Beauty,Beauty,484.86,BrandD,1.4
+product_832,Elegant Beauty,Beauty,347.69,BrandD,2.8
+product_833,Trendy Shoes,Shoes,175.02,BrandD,1.8
+product_834,Trendy Home Decor,Home Decor,345.21,BrandA,1.9
+product_835,Classic Beauty,Beauty,302.2,BrandA,1.2
+product_836,Trendy Clothing,Clothing,360.23,BrandB,4.8
+product_837,Stylish Beauty,Beauty,134.78,BrandA,3.9
+product_838,Stylish Beauty,Beauty,118.98,BrandA,1.8
+product_839,Trendy Clothing,Clothing,121.15,BrandC,2.1
+product_840,Trendy Clothing,Clothing,390.16,BrandA,1.1
+product_841,Trendy Shoes,Shoes,417.46,BrandE,1.6
+product_842,Classic Accessories,Accessories,458.6,BrandA,2.5
+product_843,Classic Home Decor,Home Decor,108.13,BrandE,3.2
+product_844,Stylish Home Decor,Home Decor,244.8,BrandB,3.9
+product_845,Classic Beauty,Beauty,71.53,BrandC,1.4
+product_846,Stylish Home Decor,Home Decor,471.26,BrandE,1.9
+product_847,Trendy Beauty,Beauty,443.38,BrandD,3.0
+product_848,Modern Home Decor,Home Decor,164.17,BrandB,4.2
+product_849,Classic Accessories,Accessories,121.88,BrandB,1.4
+product_850,Trendy Beauty,Beauty,167.33,BrandA,4.2
+product_851,Elegant Clothing,Clothing,369.7,BrandA,1.3
+product_852,Classic Beauty,Beauty,389.28,BrandA,4.5
+product_853,Stylish Beauty,Beauty,176.88,BrandD,4.3
+product_854,Modern Clothing,Clothing,402.71,BrandD,2.5
+product_855,Trendy Clothing,Clothing,102.2,BrandA,3.4
+product_856,Stylish Accessories,Accessories,127.34,BrandC,4.1
+product_857,Trendy Home Decor,Home Decor,279.9,BrandE,4.8
+product_858,Trendy Shoes,Shoes,143.88,BrandB,2.1
+product_859,Classic Clothing,Clothing,486.29,BrandC,3.4
+product_860,Stylish Beauty,Beauty,338.55,BrandA,1.9
+product_861,Modern Home Decor,Home Decor,35.66,BrandB,4.3
+product_862,Modern Home Decor,Home Decor,88.02,BrandB,3.0
+product_863,Modern Accessories,Accessories,239.12,BrandC,2.6
+product_864,Modern Clothing,Clothing,122.49,BrandE,1.7
+product_865,Modern Shoes,Shoes,103.41,BrandC,4.8
+product_866,Stylish Home Decor,Home Decor,454.52,BrandA,4.0
+product_867,Classic Accessories,Accessories,30.73,BrandC,1.2
+product_868,Trendy Accessories,Accessories,496.24,BrandD,3.3
+product_869,Stylish Accessories,Accessories,93.02,BrandA,3.4
+product_870,Modern Accessories,Accessories,437.75,BrandD,2.6
+product_871,Classic Clothing,Clothing,15.5,BrandA,4.0
+product_872,Trendy Accessories,Accessories,364.92,BrandA,3.5
+product_873,Stylish Accessories,Accessories,136.74,BrandD,4.9
+product_874,Trendy Accessories,Accessories,311.82,BrandA,2.1
+product_875,Elegant Beauty,Beauty,156.47,BrandA,2.1
+product_876,Classic Beauty,Beauty,338.96,BrandB,3.0
+product_877,Trendy Home Decor,Home Decor,434.67,BrandA,4.0
+product_878,Classic Accessories,Accessories,156.75,BrandA,4.8
+product_879,Stylish Beauty,Beauty,137.74,BrandE,4.8
+product_880,Stylish Clothing,Clothing,447.65,BrandB,3.5
+product_881,Modern Beauty,Beauty,37.32,BrandD,4.8
+product_882,Classic Clothing,Clothing,105.4,BrandE,2.2
+product_883,Classic Beauty,Beauty,380.35,BrandD,3.6
+product_884,Trendy Clothing,Clothing,375.14,BrandB,1.2
+product_885,Classic Clothing,Clothing,101.68,BrandB,2.8
+product_886,Stylish Shoes,Shoes,321.13,BrandA,3.6
+product_887,Modern Accessories,Accessories,50.24,BrandA,1.3
+product_888,Classic Accessories,Accessories,495.38,BrandA,1.1
+product_889,Trendy Accessories,Accessories,291.98,BrandB,1.1
+product_890,Stylish Shoes,Shoes,422.01,BrandB,4.1
+product_891,Modern Shoes,Shoes,88.31,BrandD,1.3
+product_892,Trendy Home Decor,Home Decor,463.98,BrandB,4.6
+product_893,Modern Beauty,Beauty,485.34,BrandB,2.2
+product_894,Classic Clothing,Clothing,180.97,BrandD,2.0
+product_895,Trendy Accessories,Accessories,252.68,BrandD,2.1
+product_896,Elegant Accessories,Accessories,360.24,BrandA,2.5
+product_897,Classic Clothing,Clothing,321.17,BrandB,3.5
+product_898,Stylish Shoes,Shoes,418.32,BrandB,2.5
+product_899,Modern Home Decor,Home Decor,133.51,BrandC,3.0
+product_900,Trendy Clothing,Clothing,438.88,BrandE,1.7
+product_901,Trendy Accessories,Accessories,129.76,BrandE,2.0
+product_902,Stylish Beauty,Beauty,75.57,BrandD,2.2
+product_903,Stylish Clothing,Clothing,95.13,BrandC,3.8
+product_904,Modern Home Decor,Home Decor,445.52,BrandC,3.3
+product_905,Classic Shoes,Shoes,184.89,BrandB,4.0
+product_906,Elegant Shoes,Shoes,123.69,BrandE,1.2
+product_907,Classic Shoes,Shoes,247.27,BrandD,2.4
+product_908,Elegant Beauty,Beauty,40.05,BrandD,2.5
+product_909,Trendy Beauty,Beauty,136.04,BrandC,2.7
+product_910,Stylish Clothing,Clothing,237.94,BrandE,3.9
+product_911,Elegant Shoes,Shoes,67.97,BrandE,4.7
+product_912,Classic Shoes,Shoes,315.07,BrandE,1.6
+product_913,Trendy Clothing,Clothing,266.35,BrandB,3.1
+product_914,Trendy Shoes,Shoes,412.84,BrandB,2.6
+product_915,Modern Shoes,Shoes,178.73,BrandD,2.9
+product_916,Classic Clothing,Clothing,234.91,BrandE,1.3
+product_917,Elegant Shoes,Shoes,403.87,BrandC,3.5
+product_918,Trendy Clothing,Clothing,47.91,BrandA,3.6
+product_919,Classic Home Decor,Home Decor,343.17,BrandB,3.5
+product_920,Stylish Accessories,Accessories,162.14,BrandE,2.4
+product_921,Elegant Beauty,Beauty,329.95,BrandD,2.0
+product_922,Trendy Beauty,Beauty,100.09,BrandC,4.1
+product_923,Stylish Home Decor,Home Decor,212.95,BrandA,1.6
+product_924,Elegant Home Decor,Home Decor,215.8,BrandC,2.2
+product_925,Trendy Clothing,Clothing,22.17,BrandC,2.3
+product_926,Classic Home Decor,Home Decor,100.05,BrandD,1.9
+product_927,Classic Shoes,Shoes,75.03,BrandC,2.0
+product_928,Modern Clothing,Clothing,236.3,BrandD,2.4
+product_929,Elegant Home Decor,Home Decor,214.68,BrandA,4.2
+product_930,Elegant Beauty,Beauty,452.14,BrandC,3.3
+product_931,Classic Home Decor,Home Decor,188.34,BrandB,2.2
+product_932,Modern Accessories,Accessories,20.18,BrandD,1.9
+product_933,Stylish Beauty,Beauty,251.06,BrandB,3.0
+product_934,Elegant Beauty,Beauty,494.18,BrandB,1.7
+product_935,Classic Home Decor,Home Decor,233.48,BrandA,3.5
+product_936,Classic Accessories,Accessories,383.36,BrandB,4.3
+product_937,Elegant Beauty,Beauty,325.64,BrandE,2.1
+product_938,Stylish Clothing,Clothing,31.99,BrandB,3.9
+product_939,Stylish Accessories,Accessories,376.61,BrandD,4.4
+product_940,Elegant Beauty,Beauty,223.63,BrandC,4.2
+product_941,Trendy Accessories,Accessories,313.34,BrandD,2.9
+product_942,Classic Home Decor,Home Decor,32.37,BrandD,3.3
+product_943,Trendy Accessories,Accessories,326.76,BrandA,3.4
+product_944,Modern Shoes,Shoes,417.23,BrandC,1.6
+product_945,Elegant Beauty,Beauty,18.69,BrandE,2.9
+product_946,Modern Accessories,Accessories,374.49,BrandD,4.9
+product_947,Stylish Home Decor,Home Decor,34.1,BrandE,2.0
+product_948,Elegant Clothing,Clothing,198.22,BrandE,1.5
+product_949,Classic Accessories,Accessories,311.69,BrandE,3.5
+product_950,Stylish Beauty,Beauty,310.8,BrandD,4.7
+product_951,Elegant Accessories,Accessories,480.44,BrandB,2.9
+product_952,Trendy Beauty,Beauty,296.38,BrandB,1.5
+product_953,Modern Accessories,Accessories,88.38,BrandE,3.9
+product_954,Modern Shoes,Shoes,188.23,BrandB,4.0
+product_955,Trendy Accessories,Accessories,494.69,BrandE,3.0
+product_956,Stylish Accessories,Accessories,217.77,BrandB,3.9
+product_957,Elegant Accessories,Accessories,313.21,BrandA,4.8
+product_958,Trendy Home Decor,Home Decor,163.26,BrandC,1.2
+product_959,Classic Shoes,Shoes,420.9,BrandC,3.9
+product_960,Stylish Home Decor,Home Decor,11.09,BrandB,1.4
+product_961,Stylish Accessories,Accessories,230.89,BrandC,4.7
+product_962,Elegant Beauty,Beauty,377.61,BrandE,1.3
+product_963,Stylish Home Decor,Home Decor,44.88,BrandA,2.4
+product_964,Classic Clothing,Clothing,257.15,BrandC,4.8
+product_965,Trendy Home Decor,Home Decor,51.42,BrandC,1.7
+product_966,Trendy Beauty,Beauty,63.48,BrandE,2.8
+product_967,Trendy Home Decor,Home Decor,28.71,BrandB,2.8
+product_968,Classic Clothing,Clothing,179.77,BrandD,4.0
+product_969,Classic Clothing,Clothing,79.53,BrandC,3.5
+product_970,Stylish Beauty,Beauty,398.94,BrandB,1.4
+product_971,Trendy Accessories,Accessories,407.72,BrandA,4.5
+product_972,Elegant Beauty,Beauty,50.9,BrandE,1.4
+product_973,Modern Beauty,Beauty,34.9,BrandA,3.7
+product_974,Stylish Accessories,Accessories,351.78,BrandE,3.1
+product_975,Elegant Accessories,Accessories,101.28,BrandB,4.8
+product_976,Classic Shoes,Shoes,214.41,BrandE,3.9
+product_977,Elegant Home Decor,Home Decor,428.35,BrandB,2.3
+product_978,Classic Beauty,Beauty,379.16,BrandE,3.4
+product_979,Modern Home Decor,Home Decor,228.47,BrandA,3.8
+product_980,Classic Home Decor,Home Decor,258.1,BrandA,2.5
+product_981,Trendy Home Decor,Home Decor,80.23,BrandC,3.3
+product_982,Modern Home Decor,Home Decor,372.5,BrandC,4.8
+product_983,Modern Beauty,Beauty,29.85,BrandE,1.2
+product_984,Stylish Shoes,Shoes,335.94,BrandD,4.0
+product_985,Elegant Accessories,Accessories,145.58,BrandD,4.6
+product_986,Stylish Clothing,Clothing,99.01,BrandB,3.3
+product_987,Stylish Shoes,Shoes,312.57,BrandB,4.4
+product_988,Elegant Shoes,Shoes,116.21,BrandE,1.6
+product_989,Classic Clothing,Clothing,245.2,BrandC,3.1
+product_990,Trendy Clothing,Clothing,172.96,BrandC,4.4
+product_991,Trendy Home Decor,Home Decor,410.36,BrandD,4.9
+product_992,Trendy Clothing,Clothing,393.66,BrandA,3.8
+product_993,Modern Clothing,Clothing,247.63,BrandB,4.2
+product_994,Modern Beauty,Beauty,464.2,BrandC,3.6
+product_995,Trendy Clothing,Clothing,220.17,BrandC,3.4
+product_996,Modern Beauty,Beauty,31.4,BrandE,3.4
+product_997,Stylish Beauty,Beauty,395.99,BrandA,3.2
+product_998,Trendy Accessories,Accessories,137.31,BrandD,3.3
+product_999,Modern Shoes,Shoes,449.58,BrandA,3.4
+product_1000,Modern Accessories,Accessories,359.33,BrandE,1.4
+product_1001,Elegant Beauty,Beauty,381.28,BrandA,1.9
+product_1002,Trendy Clothing,Clothing,199.76,BrandC,1.4
+product_1003,Elegant Clothing,Clothing,78.1,BrandD,1.4
+product_1004,Elegant Accessories,Accessories,258.64,BrandD,1.6
+product_1005,Modern Home Decor,Home Decor,339.08,BrandE,3.9
+product_1006,Modern Clothing,Clothing,460.56,BrandC,4.8
+product_1007,Stylish Beauty,Beauty,480.84,BrandC,2.2
+product_1008,Classic Beauty,Beauty,210.11,BrandE,2.0
+product_1009,Stylish Accessories,Accessories,387.57,BrandC,1.7
+product_1010,Trendy Accessories,Accessories,139.46,BrandA,3.8
+product_1011,Classic Accessories,Accessories,136.89,BrandB,3.4
+product_1012,Trendy Shoes,Shoes,77.53,BrandB,2.7
+product_1013,Elegant Clothing,Clothing,7.72,BrandC,1.3
+product_1014,Classic Beauty,Beauty,336.27,BrandA,2.1
+product_1015,Modern Clothing,Clothing,193.16,BrandB,4.1
+product_1016,Classic Accessories,Accessories,25.94,BrandC,1.1
+product_1017,Stylish Clothing,Clothing,372.66,BrandC,4.7
+product_1018,Modern Shoes,Shoes,95.98,BrandC,1.2
+product_1019,Trendy Shoes,Shoes,171.33,BrandB,4.9
+product_1020,Trendy Beauty,Beauty,314.95,BrandC,3.4
+product_1021,Stylish Accessories,Accessories,80.16,BrandE,1.4
+product_1022,Modern Accessories,Accessories,403.29,BrandE,1.9
+product_1023,Classic Clothing,Clothing,171.78,BrandE,3.8
+product_1024,Modern Beauty,Beauty,298.31,BrandB,1.8
+product_1025,Classic Clothing,Clothing,245.4,BrandA,4.9
+product_1026,Stylish Beauty,Beauty,239.16,BrandD,3.7
+product_1027,Classic Accessories,Accessories,192.53,BrandD,4.2
+product_1028,Trendy Home Decor,Home Decor,250.65,BrandE,2.0
+product_1029,Trendy Clothing,Clothing,485.05,BrandE,2.0
+product_1030,Elegant Clothing,Clothing,118.09,BrandE,1.8
+product_1031,Modern Shoes,Shoes,145.21,BrandE,2.6
+product_1032,Stylish Clothing,Clothing,48.73,BrandB,1.4
+product_1033,Stylish Accessories,Accessories,42.2,BrandE,2.6
+product_1034,Modern Home Decor,Home Decor,473.05,BrandA,4.3
+product_1035,Classic Beauty,Beauty,278.89,BrandD,3.4
+product_1036,Trendy Clothing,Clothing,270.62,BrandA,3.9
+product_1037,Trendy Beauty,Beauty,276.99,BrandD,2.4
+product_1038,Trendy Shoes,Shoes,315.2,BrandE,5.0
+product_1039,Elegant Beauty,Beauty,327.6,BrandD,3.2
+product_1040,Classic Accessories,Accessories,362.06,BrandE,2.0
+product_1041,Modern Shoes,Shoes,486.43,BrandA,4.9
+product_1042,Trendy Home Decor,Home Decor,398.61,BrandA,1.9
+product_1043,Stylish Home Decor,Home Decor,186.44,BrandD,3.4
+product_1044,Modern Accessories,Accessories,325.9,BrandE,3.7
+product_1045,Elegant Accessories,Accessories,290.44,BrandB,1.4
+product_1046,Classic Home Decor,Home Decor,417.35,BrandA,4.4
+product_1047,Classic Accessories,Accessories,97.8,BrandC,3.1
+product_1048,Stylish Shoes,Shoes,215.88,BrandB,1.5
+product_1049,Classic Accessories,Accessories,60.88,BrandD,4.8
+product_1050,Classic Home Decor,Home Decor,382.86,BrandD,3.1
+product_1051,Modern Clothing,Clothing,326.79,BrandC,4.2
+product_1052,Classic Home Decor,Home Decor,450.79,BrandE,2.1
+product_1053,Elegant Home Decor,Home Decor,426.57,BrandE,2.7
+product_1054,Trendy Shoes,Shoes,111.24,BrandB,1.8
+product_1055,Elegant Beauty,Beauty,121.49,BrandB,1.2
+product_1056,Elegant Beauty,Beauty,387.05,BrandD,4.2
+product_1057,Classic Beauty,Beauty,66.45,BrandD,1.4
+product_1058,Elegant Home Decor,Home Decor,385.06,BrandC,2.3
+product_1059,Modern Home Decor,Home Decor,240.94,BrandD,1.7
+product_1060,Elegant Shoes,Shoes,115.11,BrandC,4.0
+product_1061,Trendy Home Decor,Home Decor,303.75,BrandE,3.1
+product_1062,Stylish Beauty,Beauty,9.62,BrandB,2.3
+product_1063,Classic Home Decor,Home Decor,44.06,BrandD,2.0
+product_1064,Classic Clothing,Clothing,81.44,BrandA,4.6
+product_1065,Stylish Clothing,Clothing,351.48,BrandD,3.0
+product_1066,Trendy Clothing,Clothing,450.36,BrandC,1.5
+product_1067,Classic Accessories,Accessories,212.48,BrandA,4.9
+product_1068,Stylish Home Decor,Home Decor,109.94,BrandC,3.5
+product_1069,Classic Beauty,Beauty,197.87,BrandE,2.5
+product_1070,Trendy Accessories,Accessories,273.02,BrandC,2.3
+product_1071,Trendy Clothing,Clothing,188.35,BrandC,1.3
+product_1072,Elegant Clothing,Clothing,275.13,BrandE,2.2
+product_1073,Trendy Beauty,Beauty,328.49,BrandD,1.8
+product_1074,Stylish Clothing,Clothing,236.2,BrandA,3.1
+product_1075,Trendy Clothing,Clothing,422.55,BrandC,1.5
+product_1076,Trendy Beauty,Beauty,111.86,BrandE,3.9
+product_1077,Trendy Accessories,Accessories,432.62,BrandC,1.6
+product_1078,Trendy Home Decor,Home Decor,455.17,BrandE,4.6
+product_1079,Elegant Clothing,Clothing,373.05,BrandC,1.6
+product_1080,Classic Accessories,Accessories,495.0,BrandC,2.7
+product_1081,Trendy Beauty,Beauty,363.75,BrandE,2.5
+product_1082,Stylish Home Decor,Home Decor,429.9,BrandD,1.9
+product_1083,Classic Home Decor,Home Decor,229.4,BrandA,1.1
+product_1084,Classic Home Decor,Home Decor,294.7,BrandA,2.8
+product_1085,Stylish Shoes,Shoes,458.19,BrandB,2.8
+product_1086,Classic Clothing,Clothing,56.6,BrandB,2.4
+product_1087,Modern Clothing,Clothing,81.4,BrandB,3.6
+product_1088,Stylish Beauty,Beauty,92.35,BrandD,1.7
+product_1089,Classic Shoes,Shoes,434.57,BrandD,2.6
+product_1090,Trendy Shoes,Shoes,93.25,BrandB,4.2
+product_1091,Stylish Beauty,Beauty,131.61,BrandB,3.4
+product_1092,Stylish Shoes,Shoes,101.21,BrandD,2.3
+product_1093,Stylish Clothing,Clothing,58.57,BrandD,3.4
+product_1094,Modern Clothing,Clothing,149.75,BrandA,3.5
+product_1095,Stylish Accessories,Accessories,138.68,BrandE,2.6
+product_1096,Classic Shoes,Shoes,462.3,BrandE,3.1
+product_1097,Trendy Accessories,Accessories,76.42,BrandB,1.3
+product_1098,Trendy Beauty,Beauty,216.91,BrandC,1.7
+product_1099,Modern Clothing,Clothing,92.82,BrandB,3.5
+product_1100,Classic Home Decor,Home Decor,446.47,BrandE,2.5
+product_1101,Classic Accessories,Accessories,414.53,BrandE,1.9
+product_1102,Stylish Clothing,Clothing,198.64,BrandC,4.8
+product_1103,Classic Accessories,Accessories,71.31,BrandE,2.8
+product_1104,Stylish Shoes,Shoes,454.71,BrandE,2.8
+product_1105,Trendy Accessories,Accessories,375.95,BrandD,3.5
+product_1106,Modern Home Decor,Home Decor,234.12,BrandD,4.0
+product_1107,Classic Home Decor,Home Decor,293.91,BrandE,5.0
+product_1108,Elegant Clothing,Clothing,63.5,BrandE,4.1
+product_1109,Classic Home Decor,Home Decor,359.41,BrandE,4.7
+product_1110,Elegant Beauty,Beauty,88.11,BrandE,4.1
+product_1111,Stylish Shoes,Shoes,228.19,BrandA,4.1
+product_1112,Classic Clothing,Clothing,166.74,BrandC,3.7
+product_1113,Classic Shoes,Shoes,440.9,BrandC,3.0
+product_1114,Classic Clothing,Clothing,450.33,BrandB,3.8
+product_1115,Modern Clothing,Clothing,466.85,BrandA,4.2
+product_1116,Modern Beauty,Beauty,350.19,BrandC,2.8
+product_1117,Stylish Accessories,Accessories,247.81,BrandA,1.5
+product_1118,Trendy Accessories,Accessories,321.25,BrandD,2.4
+product_1119,Trendy Beauty,Beauty,64.49,BrandE,2.3
+product_1120,Elegant Accessories,Accessories,118.66,BrandE,4.5
+product_1121,Elegant Clothing,Clothing,497.13,BrandB,5.0
+product_1122,Classic Shoes,Shoes,208.64,BrandB,1.1
+product_1123,Trendy Home Decor,Home Decor,338.59,BrandA,3.5
+product_1124,Modern Home Decor,Home Decor,241.91,BrandD,1.0
+product_1125,Trendy Home Decor,Home Decor,72.07,BrandC,2.5
+product_1126,Stylish Clothing,Clothing,397.28,BrandA,4.3
+product_1127,Trendy Shoes,Shoes,140.06,BrandB,1.5
+product_1128,Elegant Home Decor,Home Decor,19.14,BrandD,4.8
+product_1129,Classic Beauty,Beauty,242.33,BrandB,4.4
+product_1130,Trendy Accessories,Accessories,34.7,BrandB,1.2
+product_1131,Elegant Clothing,Clothing,365.87,BrandC,4.8
+product_1132,Classic Clothing,Clothing,96.62,BrandC,1.4
+product_1133,Stylish Beauty,Beauty,370.01,BrandC,1.5
+product_1134,Trendy Home Decor,Home Decor,99.17,BrandE,2.2
+product_1135,Stylish Shoes,Shoes,85.28,BrandE,3.9
+product_1136,Classic Clothing,Clothing,217.99,BrandA,4.8
+product_1137,Stylish Beauty,Beauty,154.69,BrandE,3.3
+product_1138,Classic Accessories,Accessories,58.59,BrandD,4.9
+product_1139,Stylish Beauty,Beauty,420.41,BrandE,3.6
+product_1140,Modern Clothing,Clothing,256.07,BrandD,3.0
+product_1141,Elegant Home Decor,Home Decor,378.77,BrandD,4.0
+product_1142,Classic Accessories,Accessories,304.22,BrandD,4.4
+product_1143,Stylish Home Decor,Home Decor,444.72,BrandC,1.2
+product_1144,Modern Clothing,Clothing,50.99,BrandD,3.9
+product_1145,Stylish Accessories,Accessories,423.09,BrandB,4.4
+product_1146,Classic Accessories,Accessories,71.24,BrandE,4.3
+product_1147,Classic Beauty,Beauty,226.47,BrandA,3.6
+product_1148,Stylish Accessories,Accessories,61.34,BrandB,4.9
+product_1149,Stylish Beauty,Beauty,225.36,BrandD,2.3
+product_1150,Trendy Clothing,Clothing,286.75,BrandB,2.5
+product_1151,Elegant Shoes,Shoes,264.0,BrandD,3.0
+product_1152,Stylish Shoes,Shoes,482.58,BrandB,2.4
+product_1153,Stylish Beauty,Beauty,181.02,BrandB,2.3
+product_1154,Modern Shoes,Shoes,456.78,BrandC,4.6
+product_1155,Classic Clothing,Clothing,425.2,BrandD,3.4
+product_1156,Trendy Beauty,Beauty,24.26,BrandD,1.3
+product_1157,Classic Accessories,Accessories,480.52,BrandA,4.0
+product_1158,Modern Home Decor,Home Decor,149.34,BrandB,3.7
+product_1159,Trendy Accessories,Accessories,141.99,BrandC,3.9
+product_1160,Elegant Beauty,Beauty,261.51,BrandE,3.0
+product_1161,Elegant Home Decor,Home Decor,22.6,BrandD,4.1
+product_1162,Modern Accessories,Accessories,278.0,BrandA,1.2
+product_1163,Elegant Accessories,Accessories,469.94,BrandC,1.8
+product_1164,Modern Shoes,Shoes,256.15,BrandC,4.1
+product_1165,Modern Beauty,Beauty,376.02,BrandB,1.4
+product_1166,Modern Clothing,Clothing,417.35,BrandC,1.7
+product_1167,Trendy Clothing,Clothing,353.81,BrandD,1.6
+product_1168,Classic Shoes,Shoes,300.41,BrandB,4.8
+product_1169,Elegant Shoes,Shoes,287.76,BrandA,2.3
+product_1170,Stylish Accessories,Accessories,456.3,BrandD,4.9
+product_1171,Classic Beauty,Beauty,345.0,BrandD,1.3
+product_1172,Modern Accessories,Accessories,293.12,BrandB,2.3
+product_1173,Classic Accessories,Accessories,103.92,BrandD,3.0
+product_1174,Classic Clothing,Clothing,415.38,BrandE,4.0
+product_1175,Modern Clothing,Clothing,211.53,BrandB,1.1
+product_1176,Stylish Accessories,Accessories,310.39,BrandB,1.5
+product_1177,Classic Beauty,Beauty,304.6,BrandA,2.7
+product_1178,Trendy Shoes,Shoes,122.78,BrandE,1.2
+product_1179,Modern Beauty,Beauty,452.12,BrandB,5.0
+product_1180,Stylish Clothing,Clothing,353.68,BrandA,4.8
+product_1181,Trendy Beauty,Beauty,306.11,BrandE,4.9
+product_1182,Trendy Shoes,Shoes,146.04,BrandA,4.9
+product_1183,Elegant Accessories,Accessories,456.07,BrandA,4.3
+product_1184,Modern Accessories,Accessories,499.39,BrandB,2.0
+product_1185,Classic Clothing,Clothing,100.95,BrandB,4.6
+product_1186,Classic Shoes,Shoes,42.74,BrandA,2.7
+product_1187,Modern Clothing,Clothing,9.69,BrandE,4.9
+product_1188,Stylish Home Decor,Home Decor,141.3,BrandA,1.9
+product_1189,Elegant Shoes,Shoes,423.56,BrandC,1.8
+product_1190,Classic Clothing,Clothing,201.05,BrandB,2.9
+product_1191,Stylish Clothing,Clothing,141.31,BrandD,1.3
+product_1192,Modern Clothing,Clothing,270.28,BrandE,4.0
+product_1193,Stylish Beauty,Beauty,150.15,BrandD,1.6
+product_1194,Trendy Shoes,Shoes,8.83,BrandB,4.0
+product_1195,Classic Beauty,Beauty,18.44,BrandB,2.2
+product_1196,Stylish Home Decor,Home Decor,403.48,BrandE,4.8
+product_1197,Classic Beauty,Beauty,376.44,BrandC,3.9
+product_1198,Classic Beauty,Beauty,453.52,BrandE,3.6
+product_1199,Trendy Clothing,Clothing,468.03,BrandE,4.5
+product_1200,Elegant Accessories,Accessories,338.07,BrandB,4.0
+product_1201,Stylish Shoes,Shoes,314.22,BrandC,2.9
+product_1202,Stylish Shoes,Shoes,265.56,BrandB,3.3
+product_1203,Elegant Clothing,Clothing,123.74,BrandE,3.6
+product_1204,Modern Accessories,Accessories,372.02,BrandC,4.8
+product_1205,Classic Accessories,Accessories,400.58,BrandE,3.6
+product_1206,Elegant Accessories,Accessories,326.46,BrandD,2.6
+product_1207,Classic Clothing,Clothing,427.06,BrandE,3.2
+product_1208,Modern Shoes,Shoes,420.8,BrandA,1.1
+product_1209,Trendy Home Decor,Home Decor,297.95,BrandA,3.4
+product_1210,Modern Clothing,Clothing,428.43,BrandE,1.7
+product_1211,Trendy Accessories,Accessories,140.89,BrandD,2.4
+product_1212,Trendy Home Decor,Home Decor,111.94,BrandD,4.5
+product_1213,Stylish Beauty,Beauty,130.16,BrandB,3.2
+product_1214,Modern Clothing,Clothing,399.76,BrandD,4.3
+product_1215,Stylish Beauty,Beauty,10.81,BrandB,4.9
+product_1216,Trendy Shoes,Shoes,67.35,BrandB,3.2
+product_1217,Classic Shoes,Shoes,410.32,BrandD,1.1
+product_1218,Stylish Shoes,Shoes,381.64,BrandA,3.4
+product_1219,Classic Beauty,Beauty,5.21,BrandE,2.7
+product_1220,Classic Shoes,Shoes,309.03,BrandE,2.9
+product_1221,Trendy Beauty,Beauty,366.16,BrandE,4.2
+product_1222,Elegant Shoes,Shoes,419.51,BrandE,1.8
+product_1223,Classic Accessories,Accessories,331.43,BrandA,3.4
+product_1224,Elegant Clothing,Clothing,261.22,BrandA,1.5
+product_1225,Elegant Accessories,Accessories,443.54,BrandB,2.2
+product_1226,Classic Home Decor,Home Decor,134.47,BrandB,1.4
+product_1227,Classic Accessories,Accessories,493.29,BrandE,4.9
+product_1228,Elegant Shoes,Shoes,18.85,BrandD,3.7
+product_1229,Elegant Accessories,Accessories,129.04,BrandE,2.7
+product_1230,Stylish Home Decor,Home Decor,214.43,BrandD,3.2
+product_1231,Trendy Accessories,Accessories,268.08,BrandA,1.3
+product_1232,Classic Clothing,Clothing,158.74,BrandC,2.1
+product_1233,Trendy Beauty,Beauty,17.04,BrandA,1.1
+product_1234,Classic Accessories,Accessories,142.37,BrandC,2.3
+product_1235,Elegant Accessories,Accessories,403.47,BrandD,1.3
+product_1236,Classic Shoes,Shoes,179.78,BrandB,1.1
+product_1237,Elegant Beauty,Beauty,338.05,BrandA,1.0
+product_1238,Classic Home Decor,Home Decor,110.02,BrandB,3.6
+product_1239,Stylish Home Decor,Home Decor,425.11,BrandB,3.7
+product_1240,Elegant Shoes,Shoes,218.81,BrandB,4.7
+product_1241,Stylish Accessories,Accessories,319.21,BrandD,1.7
+product_1242,Classic Accessories,Accessories,39.27,BrandA,2.8
+product_1243,Elegant Accessories,Accessories,169.33,BrandB,3.5
+product_1244,Stylish Accessories,Accessories,251.9,BrandA,3.7
+product_1245,Trendy Shoes,Shoes,257.13,BrandB,1.4
+product_1246,Elegant Accessories,Accessories,38.92,BrandC,4.8
+product_1247,Elegant Accessories,Accessories,293.9,BrandB,2.1
+product_1248,Classic Accessories,Accessories,485.48,BrandC,4.4
+product_1249,Elegant Beauty,Beauty,286.79,BrandA,1.4
+product_1250,Trendy Accessories,Accessories,220.61,BrandA,1.7
+product_1251,Classic Beauty,Beauty,130.92,BrandC,4.6
+product_1252,Stylish Shoes,Shoes,63.57,BrandD,3.3
+product_1253,Modern Home Decor,Home Decor,412.35,BrandD,4.2
+product_1254,Elegant Home Decor,Home Decor,155.42,BrandC,2.3
+product_1255,Elegant Home Decor,Home Decor,77.84,BrandE,1.1
+product_1256,Trendy Beauty,Beauty,330.51,BrandD,1.3
+product_1257,Stylish Shoes,Shoes,376.08,BrandC,3.5
+product_1258,Modern Beauty,Beauty,451.41,BrandE,3.6
+product_1259,Modern Beauty,Beauty,135.93,BrandD,3.0
+product_1260,Modern Accessories,Accessories,184.31,BrandE,2.7
+product_1261,Elegant Beauty,Beauty,342.62,BrandB,3.1
+product_1262,Trendy Accessories,Accessories,393.15,BrandB,2.3
+product_1263,Elegant Accessories,Accessories,71.93,BrandD,4.4
+product_1264,Modern Home Decor,Home Decor,483.49,BrandA,2.0
+product_1265,Classic Home Decor,Home Decor,152.1,BrandE,2.8
+product_1266,Trendy Beauty,Beauty,37.48,BrandE,2.5
+product_1267,Trendy Home Decor,Home Decor,464.03,BrandE,3.9
+product_1268,Modern Clothing,Clothing,487.63,BrandB,3.4
+product_1269,Elegant Home Decor,Home Decor,56.11,BrandB,1.1
+product_1270,Modern Shoes,Shoes,326.34,BrandC,3.5
+product_1271,Stylish Accessories,Accessories,481.41,BrandA,3.2
+product_1272,Modern Beauty,Beauty,465.85,BrandA,2.7
+product_1273,Elegant Shoes,Shoes,404.6,BrandD,2.7
+product_1274,Modern Clothing,Clothing,371.71,BrandD,1.0
+product_1275,Classic Home Decor,Home Decor,44.86,BrandD,4.4
+product_1276,Stylish Clothing,Clothing,245.14,BrandB,2.1
+product_1277,Classic Shoes,Shoes,417.77,BrandC,4.6
+product_1278,Elegant Clothing,Clothing,333.62,BrandC,4.2
+product_1279,Stylish Clothing,Clothing,266.0,BrandC,2.2
+product_1280,Trendy Home Decor,Home Decor,125.54,BrandA,2.9
+product_1281,Trendy Shoes,Shoes,257.33,BrandD,2.8
+product_1282,Stylish Accessories,Accessories,268.35,BrandC,3.9
+product_1283,Stylish Beauty,Beauty,223.36,BrandC,2.6
+product_1284,Trendy Home Decor,Home Decor,201.48,BrandB,1.7
+product_1285,Modern Beauty,Beauty,292.52,BrandB,3.7
+product_1286,Classic Accessories,Accessories,260.96,BrandC,2.4
+product_1287,Elegant Home Decor,Home Decor,17.5,BrandE,2.0
+product_1288,Elegant Clothing,Clothing,104.69,BrandD,1.7
+product_1289,Modern Beauty,Beauty,450.55,BrandE,2.3
+product_1290,Elegant Beauty,Beauty,239.03,BrandA,1.2
+product_1291,Trendy Accessories,Accessories,487.23,BrandB,4.8
+product_1292,Modern Beauty,Beauty,300.33,BrandB,2.0
+product_1293,Trendy Shoes,Shoes,472.39,BrandC,1.6
+product_1294,Stylish Shoes,Shoes,227.86,BrandB,2.7
+product_1295,Trendy Home Decor,Home Decor,64.4,BrandE,4.9
+product_1296,Classic Accessories,Accessories,454.03,BrandE,1.3
+product_1297,Elegant Accessories,Accessories,372.88,BrandE,4.6
+product_1298,Stylish Home Decor,Home Decor,330.14,BrandE,2.7
+product_1299,Elegant Home Decor,Home Decor,481.33,BrandE,3.9
+product_1300,Stylish Accessories,Accessories,287.3,BrandA,1.5
+product_1301,Classic Accessories,Accessories,456.82,BrandC,1.6
+product_1302,Modern Beauty,Beauty,489.92,BrandB,3.9
+product_1303,Classic Beauty,Beauty,491.62,BrandC,3.7
+product_1304,Classic Clothing,Clothing,205.56,BrandB,2.8
+product_1305,Stylish Accessories,Accessories,150.3,BrandA,3.7
+product_1306,Classic Beauty,Beauty,491.24,BrandC,1.2
+product_1307,Classic Accessories,Accessories,197.88,BrandA,2.8
+product_1308,Stylish Clothing,Clothing,477.67,BrandB,3.6
+product_1309,Elegant Home Decor,Home Decor,200.03,BrandA,3.3
+product_1310,Elegant Beauty,Beauty,290.69,BrandE,3.2
+product_1311,Classic Clothing,Clothing,11.59,BrandD,1.9
+product_1312,Trendy Accessories,Accessories,259.13,BrandB,5.0
+product_1313,Trendy Beauty,Beauty,251.24,BrandC,3.6
+product_1314,Elegant Home Decor,Home Decor,47.6,BrandB,2.2
+product_1315,Elegant Shoes,Shoes,162.28,BrandB,3.9
+product_1316,Stylish Clothing,Clothing,205.68,BrandB,3.7
+product_1317,Trendy Home Decor,Home Decor,56.8,BrandC,3.3
+product_1318,Trendy Home Decor,Home Decor,223.46,BrandE,4.1
+product_1319,Elegant Shoes,Shoes,170.51,BrandE,1.4
+product_1320,Modern Beauty,Beauty,37.54,BrandB,4.4
+product_1321,Classic Accessories,Accessories,218.38,BrandB,3.4
+product_1322,Modern Clothing,Clothing,401.35,BrandD,1.7
+product_1323,Modern Home Decor,Home Decor,385.89,BrandB,3.1
+product_1324,Stylish Accessories,Accessories,220.23,BrandB,3.0
+product_1325,Classic Shoes,Shoes,68.22,BrandE,2.3
+product_1326,Modern Beauty,Beauty,291.77,BrandA,3.7
+product_1327,Elegant Home Decor,Home Decor,111.3,BrandC,3.2
+product_1328,Elegant Shoes,Shoes,316.77,BrandE,1.3
+product_1329,Classic Accessories,Accessories,166.65,BrandC,4.7
+product_1330,Classic Clothing,Clothing,155.04,BrandE,1.5
+product_1331,Trendy Beauty,Beauty,94.4,BrandE,4.9
+product_1332,Stylish Clothing,Clothing,51.59,BrandC,2.0
+product_1333,Modern Shoes,Shoes,379.58,BrandD,2.0
+product_1334,Elegant Beauty,Beauty,450.34,BrandB,2.2
+product_1335,Elegant Shoes,Shoes,207.19,BrandD,4.6
+product_1336,Classic Home Decor,Home Decor,469.21,BrandD,4.5
+product_1337,Modern Beauty,Beauty,211.29,BrandD,1.5
+product_1338,Elegant Accessories,Accessories,46.43,BrandE,2.1
+product_1339,Modern Home Decor,Home Decor,484.93,BrandD,1.9
+product_1340,Stylish Home Decor,Home Decor,400.32,BrandB,4.0
+product_1341,Stylish Shoes,Shoes,329.95,BrandC,1.9
+product_1342,Elegant Beauty,Beauty,288.92,BrandD,4.1
+product_1343,Trendy Beauty,Beauty,464.93,BrandD,2.6
+product_1344,Classic Home Decor,Home Decor,448.02,BrandA,2.0
+product_1345,Classic Accessories,Accessories,19.65,BrandC,4.0
+product_1346,Modern Beauty,Beauty,152.19,BrandD,2.6
+product_1347,Elegant Home Decor,Home Decor,291.86,BrandD,2.1
+product_1348,Trendy Shoes,Shoes,327.13,BrandC,3.8
+product_1349,Classic Shoes,Shoes,384.47,BrandD,4.9
+product_1350,Stylish Home Decor,Home Decor,318.94,BrandE,1.0
+product_1351,Trendy Accessories,Accessories,245.22,BrandB,3.6
+product_1352,Modern Clothing,Clothing,291.53,BrandD,2.4
+product_1353,Trendy Shoes,Shoes,152.04,BrandB,2.8
+product_1354,Modern Clothing,Clothing,317.57,BrandE,1.0
+product_1355,Classic Shoes,Shoes,61.06,BrandE,4.8
+product_1356,Modern Home Decor,Home Decor,337.8,BrandC,4.9
+product_1357,Modern Clothing,Clothing,274.68,BrandB,3.1
+product_1358,Stylish Beauty,Beauty,221.97,BrandB,4.4
+product_1359,Elegant Beauty,Beauty,24.23,BrandD,3.4
+product_1360,Elegant Clothing,Clothing,467.35,BrandB,2.5
+product_1361,Trendy Accessories,Accessories,485.17,BrandE,2.4
+product_1362,Stylish Home Decor,Home Decor,32.69,BrandA,4.9
+product_1363,Elegant Shoes,Shoes,103.15,BrandC,3.5
+product_1364,Elegant Shoes,Shoes,351.66,BrandA,3.2
+product_1365,Classic Beauty,Beauty,181.07,BrandC,1.7
+product_1366,Modern Shoes,Shoes,320.84,BrandC,2.3
+product_1367,Elegant Home Decor,Home Decor,131.27,BrandD,1.2
+product_1368,Elegant Home Decor,Home Decor,56.05,BrandB,2.0
+product_1369,Elegant Accessories,Accessories,131.17,BrandE,3.9
+product_1370,Modern Home Decor,Home Decor,328.91,BrandE,1.9
+product_1371,Modern Accessories,Accessories,214.88,BrandE,4.0
+product_1372,Stylish Beauty,Beauty,54.58,BrandB,2.8
+product_1373,Stylish Shoes,Shoes,72.79,BrandD,3.3
+product_1374,Modern Shoes,Shoes,102.49,BrandC,4.4
+product_1375,Trendy Home Decor,Home Decor,291.9,BrandB,1.2
+product_1376,Trendy Clothing,Clothing,408.64,BrandB,2.0
+product_1377,Modern Shoes,Shoes,131.86,BrandD,2.7
+product_1378,Elegant Shoes,Shoes,18.2,BrandD,3.4
+product_1379,Modern Home Decor,Home Decor,424.24,BrandB,4.5
+product_1380,Classic Clothing,Clothing,265.54,BrandB,2.2
+product_1381,Stylish Shoes,Shoes,63.32,BrandB,2.4
+product_1382,Modern Home Decor,Home Decor,480.45,BrandD,3.1
+product_1383,Modern Home Decor,Home Decor,271.18,BrandE,4.4
+product_1384,Classic Home Decor,Home Decor,462.61,BrandB,2.2
+product_1385,Classic Clothing,Clothing,371.33,BrandB,3.7
+product_1386,Classic Shoes,Shoes,114.49,BrandB,1.5
+product_1387,Classic Shoes,Shoes,493.72,BrandD,2.7
+product_1388,Modern Beauty,Beauty,154.28,BrandC,4.7
+product_1389,Classic Beauty,Beauty,491.79,BrandE,3.3
+product_1390,Trendy Accessories,Accessories,65.07,BrandD,1.0
+product_1391,Trendy Home Decor,Home Decor,87.97,BrandC,3.6
+product_1392,Elegant Clothing,Clothing,421.06,BrandD,3.7
+product_1393,Trendy Accessories,Accessories,418.08,BrandB,2.3
+product_1394,Classic Shoes,Shoes,325.9,BrandC,1.6
+product_1395,Stylish Accessories,Accessories,183.46,BrandB,1.0
+product_1396,Stylish Shoes,Shoes,433.01,BrandE,2.5
+product_1397,Classic Home Decor,Home Decor,277.36,BrandD,2.1
+product_1398,Classic Shoes,Shoes,499.01,BrandD,1.2
+product_1399,Classic Clothing,Clothing,292.54,BrandA,2.2
+product_1400,Elegant Clothing,Clothing,281.81,BrandD,4.2
+product_1401,Modern Clothing,Clothing,227.45,BrandD,4.6
+product_1402,Trendy Home Decor,Home Decor,86.22,BrandA,3.7
+product_1403,Modern Accessories,Accessories,111.37,BrandC,2.1
+product_1404,Elegant Accessories,Accessories,119.85,BrandB,4.3
+product_1405,Stylish Accessories,Accessories,311.01,BrandC,2.1
+product_1406,Trendy Shoes,Shoes,424.67,BrandD,4.3
+product_1407,Classic Clothing,Clothing,374.69,BrandC,3.8
+product_1408,Elegant Clothing,Clothing,432.68,BrandD,4.3
+product_1409,Stylish Home Decor,Home Decor,488.82,BrandD,2.0
+product_1410,Stylish Beauty,Beauty,287.76,BrandA,3.6
+product_1411,Trendy Home Decor,Home Decor,351.47,BrandD,4.6
+product_1412,Stylish Home Decor,Home Decor,248.27,BrandD,2.9
+product_1413,Elegant Home Decor,Home Decor,141.61,BrandD,2.5
+product_1414,Trendy Shoes,Shoes,319.64,BrandB,2.9
+product_1415,Elegant Shoes,Shoes,290.79,BrandC,4.9
+product_1416,Modern Shoes,Shoes,158.9,BrandD,3.3
+product_1417,Elegant Shoes,Shoes,428.14,BrandD,1.3
+product_1418,Elegant Clothing,Clothing,52.48,BrandE,2.7
+product_1419,Classic Clothing,Clothing,147.76,BrandA,2.4
+product_1420,Trendy Clothing,Clothing,401.36,BrandD,1.9
+product_1421,Stylish Accessories,Accessories,331.3,BrandB,4.7
+product_1422,Modern Shoes,Shoes,97.88,BrandE,4.8
+product_1423,Elegant Shoes,Shoes,218.62,BrandB,1.2
+product_1424,Modern Beauty,Beauty,392.17,BrandD,3.2
+product_1425,Modern Accessories,Accessories,365.68,BrandB,4.7
+product_1426,Modern Clothing,Clothing,461.01,BrandC,1.1
+product_1427,Stylish Clothing,Clothing,302.37,BrandB,1.5
+product_1428,Stylish Accessories,Accessories,72.02,BrandD,1.5
+product_1429,Elegant Beauty,Beauty,15.77,BrandD,4.5
+product_1430,Trendy Home Decor,Home Decor,255.34,BrandD,3.5
+product_1431,Elegant Clothing,Clothing,172.46,BrandE,3.3
+product_1432,Trendy Home Decor,Home Decor,309.76,BrandD,3.8
+product_1433,Classic Home Decor,Home Decor,30.23,BrandE,1.9
+product_1434,Stylish Beauty,Beauty,40.67,BrandC,1.1
+product_1435,Elegant Home Decor,Home Decor,10.09,BrandE,4.5
+product_1436,Stylish Shoes,Shoes,140.49,BrandB,1.6
+product_1437,Trendy Shoes,Shoes,303.39,BrandE,1.5
+product_1438,Stylish Shoes,Shoes,482.25,BrandB,3.9
+product_1439,Elegant Accessories,Accessories,386.65,BrandD,2.8
+product_1440,Stylish Accessories,Accessories,151.51,BrandA,4.1
+product_1441,Stylish Clothing,Clothing,65.17,BrandB,1.7
+product_1442,Elegant Shoes,Shoes,259.6,BrandA,2.5
+product_1443,Stylish Shoes,Shoes,217.47,BrandB,2.8
+product_1444,Modern Beauty,Beauty,62.04,BrandE,3.7
+product_1445,Modern Clothing,Clothing,425.69,BrandA,2.9
+product_1446,Trendy Clothing,Clothing,379.55,BrandE,1.5
+product_1447,Modern Shoes,Shoes,253.99,BrandE,1.9
+product_1448,Classic Accessories,Accessories,160.64,BrandC,4.4
+product_1449,Stylish Beauty,Beauty,239.54,BrandC,4.0
+product_1450,Stylish Home Decor,Home Decor,108.3,BrandA,3.3
+product_1451,Stylish Clothing,Clothing,86.32,BrandC,1.1
+product_1452,Trendy Home Decor,Home Decor,39.44,BrandA,4.6
+product_1453,Modern Clothing,Clothing,356.26,BrandD,2.7
+product_1454,Elegant Beauty,Beauty,262.9,BrandD,3.1
+product_1455,Stylish Home Decor,Home Decor,466.95,BrandB,2.3
+product_1456,Stylish Shoes,Shoes,390.86,BrandB,2.9
+product_1457,Stylish Shoes,Shoes,74.2,BrandA,4.5
+product_1458,Stylish Accessories,Accessories,71.88,BrandE,2.2
+product_1459,Modern Shoes,Shoes,288.52,BrandB,4.2
+product_1460,Classic Clothing,Clothing,360.04,BrandD,1.1
+product_1461,Modern Clothing,Clothing,224.39,BrandA,4.5
+product_1462,Elegant Shoes,Shoes,17.27,BrandE,4.8
+product_1463,Stylish Beauty,Beauty,473.35,BrandC,4.4
+product_1464,Modern Beauty,Beauty,224.97,BrandB,2.5
+product_1465,Modern Shoes,Shoes,393.59,BrandD,2.0
+product_1466,Trendy Accessories,Accessories,392.91,BrandE,2.2
+product_1467,Elegant Home Decor,Home Decor,436.68,BrandE,4.5
+product_1468,Trendy Accessories,Accessories,246.62,BrandB,3.5
+product_1469,Classic Accessories,Accessories,9.13,BrandE,1.8
+product_1470,Trendy Clothing,Clothing,364.33,BrandA,5.0
+product_1471,Modern Accessories,Accessories,351.39,BrandC,4.3
+product_1472,Trendy Shoes,Shoes,390.68,BrandE,4.5
+product_1473,Stylish Home Decor,Home Decor,212.06,BrandD,1.5
+product_1474,Classic Shoes,Shoes,41.66,BrandA,4.0
+product_1475,Modern Shoes,Shoes,415.49,BrandC,2.3
+product_1476,Stylish Clothing,Clothing,53.43,BrandD,2.7
+product_1477,Modern Beauty,Beauty,267.0,BrandB,4.3
+product_1478,Stylish Clothing,Clothing,449.08,BrandC,1.3
+product_1479,Classic Beauty,Beauty,301.71,BrandE,4.1
+product_1480,Classic Accessories,Accessories,65.1,BrandB,4.2
+product_1481,Classic Clothing,Clothing,383.49,BrandD,1.2
+product_1482,Elegant Beauty,Beauty,381.94,BrandB,3.3
+product_1483,Trendy Shoes,Shoes,337.39,BrandE,2.5
+product_1484,Modern Shoes,Shoes,149.89,BrandB,2.1
+product_1485,Stylish Home Decor,Home Decor,35.64,BrandE,1.1
+product_1486,Stylish Shoes,Shoes,468.96,BrandD,2.0
+product_1487,Modern Shoes,Shoes,44.12,BrandB,4.6
+product_1488,Modern Beauty,Beauty,414.39,BrandC,1.1
+product_1489,Trendy Clothing,Clothing,437.49,BrandA,2.7
+product_1490,Modern Beauty,Beauty,491.31,BrandC,4.1
+product_1491,Stylish Accessories,Accessories,436.87,BrandB,2.6
+product_1492,Stylish Beauty,Beauty,415.06,BrandE,2.3
+product_1493,Modern Shoes,Shoes,356.52,BrandA,1.9
+product_1494,Elegant Shoes,Shoes,434.26,BrandA,5.0
+product_1495,Elegant Shoes,Shoes,410.51,BrandB,1.4
+product_1496,Trendy Clothing,Clothing,464.34,BrandD,2.1
+product_1497,Trendy Accessories,Accessories,494.38,BrandC,4.5
+product_1498,Elegant Home Decor,Home Decor,37.96,BrandC,3.9
+product_1499,Elegant Shoes,Shoes,312.22,BrandE,3.2

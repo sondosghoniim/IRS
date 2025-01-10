@@ -1,0 +1,1501 @@
+user_id,age,gender,location,signup_date,spending_score
+user_0,26,Other,Asia,2022-03-08,49
+user_1,61,Male,Africa,2021-05-22,86
+user_2,57,Other,Africa,2023-03-15,99
+user_3,45,Female,South America,2022-04-25,92
+user_4,60,Male,Europe,2021-02-20,14
+user_5,28,Female,North America,2023-11-01,65
+user_6,61,Female,Africa,2023-11-20,4
+user_7,61,Male,South America,2021-05-24,85
+user_8,27,Male,Europe,2024-04-29,86
+user_9,59,Other,North America,2022-09-30,61
+user_10,55,Male,Africa,2022-07-21,10
+user_11,45,Female,North America,2024-10-05,36
+user_12,34,Other,Africa,2023-10-18,42
+user_13,55,Male,South America,2021-09-23,60
+user_14,42,Female,Asia,2021-01-01,29
+user_15,23,Other,Europe,2020-05-25,4
+user_16,50,Female,South America,2021-01-21,20
+user_17,27,Male,Asia,2021-07-05,90
+user_18,48,Female,South America,2022-12-29,93
+user_19,61,Female,Asia,2020-08-24,97
+user_20,36,Male,South America,2023-01-30,75
+user_21,61,Other,Asia,2020-06-16,12
+user_22,37,Other,North America,2023-04-28,30
+user_23,56,Other,Africa,2024-04-18,98
+user_24,50,Female,South America,2022-09-01,46
+user_25,65,Female,South America,2023-08-10,99
+user_26,65,Other,South America,2020-08-17,87
+user_27,18,Male,Africa,2021-03-09,74
+user_28,59,Other,Europe,2024-09-27,27
+user_29,47,Female,Asia,2021-06-11,45
+user_30,35,Male,Europe,2022-03-01,73
+user_31,27,Female,South America,2023-03-02,36
+user_32,65,Other,South America,2021-04-22,6
+user_33,20,Male,South America,2020-10-18,20
+user_34,59,Male,Africa,2021-04-07,69
+user_35,27,Female,Asia,2023-04-20,37
+user_36,60,Female,Asia,2022-12-20,46
+user_37,60,Male,Asia,2021-03-22,43
+user_38,52,Male,South America,2024-12-09,36
+user_39,61,Female,Asia,2024-01-19,12
+user_40,59,Male,South America,2020-12-03,84
+user_41,41,Other,Africa,2023-02-04,89
+user_42,53,Female,North America,2021-03-04,13
+user_43,49,Other,South America,2020-04-24,18
+user_44,48,Other,Europe,2023-12-09,6
+user_45,58,Male,Europe,2022-08-09,72
+user_46,30,Female,South America,2020-07-21,84
+user_47,54,Female,North America,2020-08-24,69
+user_48,18,Female,North America,2022-06-29,32
+user_49,25,Female,Asia,2022-04-17,45
+user_50,45,Other,South America,2022-05-06,76
+user_51,19,Male,Asia,2021-12-06,33
+user_52,59,Male,South America,2021-12-14,78
+user_53,41,Female,North America,2021-07-06,88
+user_54,54,Other,South America,2022-06-02,47
+user_55,27,Other,South America,2020-01-28,79
+user_56,36,Male,South America,2020-12-02,25
+user_57,54,Female,Africa,2021-05-03,10
+user_58,28,Female,South America,2020-07-05,34
+user_59,36,Other,South America,2023-07-13,91
+user_60,24,Male,Africa,2023-04-15,79
+user_61,35,Other,Europe,2020-11-12,92
+user_62,49,Male,Europe,2020-10-09,17
+user_63,19,Other,Europe,2023-11-03,36
+user_64,19,Female,North America,2021-09-09,100
+user_65,21,Other,Europe,2021-11-18,65
+user_66,32,Male,Asia,2022-12-03,76
+user_67,20,Female,Asia,2023-02-05,63
+user_68,21,Female,Africa,2021-06-18,20
+user_69,62,Other,South America,2020-11-03,73
+user_70,47,Female,North America,2022-04-29,86
+user_71,39,Male,Africa,2020-08-21,87
+user_72,59,Other,Africa,2021-12-23,49
+user_73,58,Other,North America,2021-08-02,43
+user_74,49,Male,South America,2024-03-08,36
+user_75,46,Other,Asia,2022-12-09,72
+user_76,44,Female,Europe,2021-12-21,65
+user_77,23,Male,North America,2023-09-10,6
+user_78,45,Male,Europe,2024-10-05,54
+user_79,30,Female,South America,2021-09-20,41
+user_80,24,Male,Africa,2023-08-04,77
+user_81,27,Female,Europe,2024-04-22,60
+user_82,38,Male,Africa,2022-07-02,65
+user_83,56,Other,Europe,2024-04-26,66
+user_84,29,Male,Europe,2024-05-01,95
+user_85,43,Female,South America,2024-07-03,59
+user_86,21,Male,South America,2022-09-15,20
+user_87,52,Male,Europe,2021-04-03,22
+user_88,35,Female,Europe,2021-09-14,19
+user_89,20,Other,North America,2022-09-14,2
+user_90,55,Female,South America,2020-10-12,69
+user_91,18,Male,Asia,2020-02-29,81
+user_92,23,Male,South America,2022-06-08,81
+user_93,35,Female,Europe,2020-09-20,15
+user_94,63,Male,South America,2024-11-04,11
+user_95,27,Other,North America,2023-06-21,75
+user_96,62,Other,Asia,2023-10-14,76
+user_97,31,Female,Europe,2020-04-04,45
+user_98,20,Other,Africa,2023-07-28,45
+user_99,48,Other,South America,2021-12-03,28
+user_100,51,Other,Asia,2024-12-19,90
+user_101,32,Male,Africa,2022-04-12,18
+user_102,62,Male,Asia,2023-10-17,95
+user_103,21,Other,South America,2024-03-22,91
+user_104,18,Female,South America,2020-12-23,17
+user_105,28,Male,South America,2023-06-08,36
+user_106,53,Female,Africa,2021-01-23,21
+user_107,27,Female,Africa,2021-03-21,43
+user_108,28,Male,Europe,2020-01-03,6
+user_109,23,Other,South America,2024-09-12,47
+user_110,30,Male,Africa,2024-10-13,61
+user_111,49,Other,South America,2020-09-23,34
+user_112,21,Female,North America,2020-12-16,77
+user_113,50,Other,North America,2022-07-15,22
+user_114,18,Other,Europe,2023-04-20,88
+user_115,62,Other,Europe,2021-05-05,90
+user_116,35,Other,Europe,2024-02-28,1
+user_117,49,Female,Asia,2024-07-27,62
+user_118,59,Female,South America,2024-07-09,24
+user_119,35,Female,South America,2020-09-30,20
+user_120,30,Male,North America,2021-07-12,1
+user_121,34,Female,South America,2020-07-13,82
+user_122,22,Male,South America,2024-05-24,90
+user_123,37,Female,Asia,2021-03-01,10
+user_124,18,Male,North America,2023-12-27,10
+user_125,31,Other,North America,2022-04-22,83
+user_126,31,Female,Africa,2021-05-28,94
+user_127,57,Other,Asia,2021-09-16,81
+user_128,59,Female,Europe,2024-09-30,85
+user_129,30,Male,North America,2021-12-27,83
+user_130,60,Female,Europe,2023-02-03,99
+user_131,28,Other,Europe,2020-03-29,99
+user_132,26,Other,South America,2024-06-29,24
+user_133,55,Male,Asia,2020-10-22,64
+user_134,48,Other,Asia,2023-12-22,62
+user_135,56,Male,North America,2024-09-25,91
+user_136,35,Other,South America,2024-07-15,33
+user_137,59,Male,Europe,2023-11-28,47
+user_138,33,Other,South America,2020-05-21,19
+user_139,49,Other,North America,2022-11-23,7
+user_140,54,Female,Africa,2024-03-30,70
+user_141,27,Male,Asia,2020-12-16,20
+user_142,19,Male,Africa,2020-03-07,59
+user_143,49,Female,Asia,2024-01-25,84
+user_144,37,Female,Europe,2024-03-21,54
+user_145,65,Female,South America,2020-01-05,43
+user_146,46,Other,South America,2024-06-07,79
+user_147,52,Other,Africa,2023-02-08,58
+user_148,30,Other,South America,2020-08-10,77
+user_149,29,Male,Europe,2024-09-15,5
+user_150,48,Female,Asia,2024-10-25,67
+user_151,41,Female,Europe,2022-03-21,81
+user_152,36,Other,Asia,2021-06-14,39
+user_153,31,Female,Europe,2022-10-26,91
+user_154,34,Male,Africa,2020-01-10,13
+user_155,32,Male,Africa,2024-11-16,99
+user_156,31,Other,Africa,2022-07-13,89
+user_157,54,Male,Asia,2020-08-05,44
+user_158,25,Other,North America,2020-04-03,78
+user_159,63,Other,North America,2024-04-03,55
+user_160,34,Other,North America,2021-08-05,88
+user_161,57,Male,Asia,2023-10-29,65
+user_162,54,Male,North America,2023-08-31,6
+user_163,25,Male,Europe,2024-06-10,86
+user_164,43,Female,Africa,2024-03-13,87
+user_165,34,Male,South America,2023-12-10,51
+user_166,34,Female,Europe,2023-03-17,22
+user_167,53,Male,Africa,2020-11-05,90
+user_168,62,Male,Africa,2022-05-28,3
+user_169,34,Male,North America,2020-05-31,68
+user_170,52,Male,Europe,2022-06-26,19
+user_171,45,Male,Asia,2022-12-01,27
+user_172,24,Female,Asia,2021-03-13,68
+user_173,59,Male,Asia,2024-06-11,34
+user_174,48,Female,Africa,2024-02-07,74
+user_175,46,Female,North America,2020-08-16,49
+user_176,40,Male,North America,2024-03-17,98
+user_177,51,Female,Europe,2020-03-04,24
+user_178,41,Other,North America,2024-11-30,8
+user_179,26,Female,Europe,2022-02-05,55
+user_180,61,Other,South America,2023-02-26,82
+user_181,35,Female,Europe,2020-03-16,70
+user_182,63,Male,Europe,2023-06-17,66
+user_183,31,Female,South America,2024-10-22,74
+user_184,37,Male,South America,2020-04-19,75
+user_185,51,Female,Europe,2020-04-17,54
+user_186,33,Male,Africa,2021-02-20,50
+user_187,64,Male,Africa,2021-09-03,97
+user_188,29,Male,North America,2024-12-07,56
+user_189,32,Male,Africa,2022-12-21,89
+user_190,36,Other,South America,2021-08-06,66
+user_191,52,Male,South America,2024-04-22,70
+user_192,31,Other,Europe,2023-06-27,19
+user_193,36,Male,North America,2024-11-24,58
+user_194,43,Male,Europe,2023-02-05,35
+user_195,37,Female,Europe,2021-08-05,90
+user_196,65,Male,Asia,2022-05-21,41
+user_197,25,Male,Africa,2023-08-04,80
+user_198,59,Other,South America,2020-05-02,61
+user_199,46,Other,Asia,2021-07-03,9
+user_200,57,Male,South America,2023-10-10,95
+user_201,53,Female,Asia,2021-10-20,49
+user_202,40,Other,North America,2020-07-14,58
+user_203,36,Male,Asia,2020-04-01,30
+user_204,29,Male,Africa,2024-06-27,88
+user_205,59,Other,South America,2022-11-24,14
+user_206,54,Female,Europe,2020-08-03,64
+user_207,24,Other,North America,2022-03-22,54
+user_208,43,Other,Europe,2023-08-28,94
+user_209,29,Male,Europe,2023-04-04,25
+user_210,31,Female,Asia,2023-02-08,16
+user_211,54,Other,North America,2022-06-08,25
+user_212,36,Other,Europe,2020-09-26,12
+user_213,50,Female,Europe,2021-07-02,66
+user_214,49,Other,South America,2022-07-03,16
+user_215,40,Male,North America,2020-07-19,2
+user_216,62,Other,South America,2022-07-04,78
+user_217,26,Male,Asia,2024-05-10,93
+user_218,65,Other,North America,2020-08-06,81
+user_219,65,Female,South America,2023-02-12,27
+user_220,38,Male,North America,2023-08-06,99
+user_221,51,Female,South America,2020-04-22,24
+user_222,38,Female,Europe,2022-09-28,90
+user_223,45,Other,Europe,2024-12-03,1
+user_224,56,Other,Africa,2020-01-28,79
+user_225,55,Female,Asia,2023-12-10,34
+user_226,22,Male,North America,2022-12-21,49
+user_227,56,Female,North America,2024-03-04,42
+user_228,47,Male,Asia,2023-01-21,5
+user_229,31,Female,North America,2022-09-18,24
+user_230,30,Other,Asia,2022-08-31,12
+user_231,28,Male,Europe,2024-04-22,9
+user_232,57,Female,South America,2020-09-13,26
+user_233,53,Male,Asia,2022-04-22,54
+user_234,39,Female,Asia,2023-06-02,5
+user_235,32,Other,North America,2020-10-19,1
+user_236,21,Female,North America,2024-01-25,1
+user_237,42,Other,Europe,2021-05-06,48
+user_238,45,Male,Europe,2024-01-17,61
+user_239,55,Other,South America,2021-10-15,67
+user_240,26,Male,South America,2020-11-18,29
+user_241,61,Female,Africa,2024-07-07,18
+user_242,22,Female,Asia,2023-03-05,81
+user_243,50,Male,Europe,2020-12-09,45
+user_244,27,Female,Europe,2023-05-07,10
+user_245,62,Other,South America,2024-05-02,6
+user_246,62,Female,North America,2023-07-06,49
+user_247,28,Female,Asia,2024-03-03,2
+user_248,18,Other,Europe,2024-07-10,47
+user_249,57,Female,Asia,2020-09-25,74
+user_250,40,Female,North America,2021-01-05,3
+user_251,60,Male,Europe,2023-01-28,19
+user_252,54,Other,South America,2024-07-18,5
+user_253,51,Other,South America,2020-02-13,99
+user_254,61,Female,North America,2024-09-05,47
+user_255,43,Other,North America,2023-12-19,73
+user_256,55,Male,North America,2022-12-08,42
+user_257,61,Other,South America,2024-03-22,80
+user_258,41,Male,Africa,2024-10-26,52
+user_259,51,Other,North America,2024-12-02,60
+user_260,47,Female,Africa,2022-03-07,56
+user_261,27,Other,Europe,2021-11-24,14
+user_262,39,Male,Africa,2020-08-06,85
+user_263,20,Female,Africa,2021-01-18,40
+user_264,30,Other,Asia,2022-10-27,48
+user_265,25,Female,Africa,2024-10-15,49
+user_266,29,Female,South America,2020-12-14,97
+user_267,18,Male,North America,2022-12-04,78
+user_268,38,Other,Europe,2023-10-15,3
+user_269,37,Male,South America,2022-03-11,34
+user_270,26,Female,North America,2023-12-15,61
+user_271,45,Male,North America,2022-08-07,33
+user_272,60,Male,Africa,2021-08-18,10
+user_273,28,Other,Africa,2021-12-25,43
+user_274,33,Male,South America,2023-11-19,98
+user_275,26,Other,Europe,2022-12-24,100
+user_276,19,Female,Asia,2020-06-10,7
+user_277,28,Female,North America,2023-11-10,56
+user_278,24,Other,Africa,2023-10-01,32
+user_279,59,Male,South America,2020-04-19,4
+user_280,54,Other,Asia,2025-01-01,65
+user_281,60,Female,Europe,2020-12-18,84
+user_282,45,Male,Europe,2024-10-16,72
+user_283,62,Other,Africa,2023-12-17,64
+user_284,27,Female,Africa,2023-01-17,13
+user_285,21,Male,North America,2023-10-14,53
+user_286,32,Other,South America,2020-06-01,32
+user_287,60,Female,North America,2024-04-09,15
+user_288,41,Male,Africa,2021-07-22,53
+user_289,59,Other,North America,2021-07-26,37
+user_290,31,Male,Africa,2022-06-25,37
+user_291,23,Female,Europe,2020-05-23,46
+user_292,33,Other,South America,2023-03-25,45
+user_293,38,Other,North America,2020-11-29,11
+user_294,25,Other,Africa,2020-03-13,70
+user_295,35,Male,North America,2024-06-15,69
+user_296,18,Other,Asia,2022-06-30,81
+user_297,47,Other,Africa,2024-06-27,48
+user_298,38,Female,Europe,2021-01-05,92
+user_299,35,Male,North America,2024-09-09,50
+user_300,44,Female,Africa,2020-07-08,69
+user_301,43,Female,Europe,2021-10-17,64
+user_302,61,Other,Europe,2024-05-10,47
+user_303,38,Male,South America,2021-04-19,71
+user_304,51,Female,South America,2020-08-18,18
+user_305,41,Male,North America,2023-09-09,13
+user_306,22,Male,Africa,2021-01-07,14
+user_307,63,Male,North America,2021-07-09,13
+user_308,62,Male,Africa,2024-11-08,74
+user_309,57,Female,Europe,2020-09-24,66
+user_310,25,Male,South America,2022-11-27,97
+user_311,54,Other,Africa,2021-10-11,53
+user_312,50,Other,North America,2023-02-12,55
+user_313,22,Female,North America,2021-09-28,40
+user_314,65,Other,North America,2024-03-24,67
+user_315,57,Female,Africa,2024-11-28,33
+user_316,38,Female,South America,2021-06-25,59
+user_317,47,Male,Europe,2022-10-08,57
+user_318,47,Female,Africa,2024-08-07,47
+user_319,65,Other,Europe,2021-06-14,97
+user_320,33,Female,South America,2023-08-22,69
+user_321,51,Other,South America,2023-05-07,16
+user_322,39,Female,South America,2024-11-03,72
+user_323,34,Female,South America,2020-07-11,13
+user_324,58,Female,Europe,2022-05-12,44
+user_325,37,Other,Asia,2024-10-23,46
+user_326,61,Female,South America,2022-12-16,82
+user_327,40,Male,Asia,2023-08-28,21
+user_328,21,Male,South America,2020-11-18,69
+user_329,44,Other,South America,2024-12-29,11
+user_330,23,Other,South America,2023-05-28,50
+user_331,39,Female,North America,2021-08-07,95
+user_332,44,Other,Africa,2021-07-03,44
+user_333,24,Female,Asia,2021-03-26,22
+user_334,52,Female,Europe,2022-02-26,59
+user_335,43,Male,North America,2024-12-13,17
+user_336,24,Female,Europe,2020-07-15,87
+user_337,63,Female,North America,2022-07-09,81
+user_338,63,Other,Africa,2024-07-25,37
+user_339,61,Other,Asia,2022-01-14,68
+user_340,33,Other,South America,2024-02-26,80
+user_341,30,Female,South America,2023-06-02,5
+user_342,36,Other,Africa,2024-02-27,89
+user_343,49,Male,North America,2022-04-28,3
+user_344,32,Other,South America,2022-03-10,77
+user_345,61,Male,South America,2022-10-22,40
+user_346,38,Male,Africa,2020-07-11,28
+user_347,33,Female,Africa,2020-12-30,87
+user_348,52,Male,South America,2024-02-18,51
+user_349,25,Other,South America,2024-06-13,23
+user_350,59,Female,South America,2024-10-04,8
+user_351,59,Male,North America,2022-03-12,87
+user_352,25,Other,South America,2024-01-11,100
+user_353,49,Other,Europe,2024-10-10,61
+user_354,50,Other,North America,2020-08-17,36
+user_355,59,Other,Africa,2024-10-03,23
+user_356,54,Other,North America,2021-04-01,55
+user_357,54,Male,North America,2022-02-22,93
+user_358,19,Male,Asia,2022-09-25,27
+user_359,48,Male,Africa,2022-04-20,13
+user_360,63,Male,Africa,2020-02-14,8
+user_361,53,Male,Europe,2021-10-30,49
+user_362,57,Other,Europe,2020-10-21,87
+user_363,36,Female,South America,2020-06-10,65
+user_364,22,Male,North America,2020-03-19,27
+user_365,20,Male,Asia,2021-06-21,25
+user_366,18,Female,Europe,2021-04-28,89
+user_367,33,Female,Asia,2022-05-29,1
+user_368,64,Male,Europe,2020-06-11,36
+user_369,59,Male,Europe,2024-03-27,48
+user_370,65,Female,Africa,2021-12-15,65
+user_371,35,Male,North America,2023-10-31,23
+user_372,53,Female,Europe,2021-02-23,86
+user_373,39,Other,Africa,2021-08-24,66
+user_374,34,Female,Asia,2022-04-05,88
+user_375,55,Male,Africa,2021-10-10,89
+user_376,55,Female,Europe,2023-02-26,65
+user_377,42,Male,South America,2024-01-05,69
+user_378,59,Female,Africa,2021-07-05,98
+user_379,51,Female,Europe,2024-11-02,31
+user_380,51,Female,Asia,2021-09-05,53
+user_381,49,Other,North America,2024-12-24,21
+user_382,26,Other,North America,2023-01-07,17
+user_383,32,Female,Africa,2021-03-09,74
+user_384,43,Other,Africa,2023-10-03,24
+user_385,34,Female,South America,2023-08-01,76
+user_386,23,Other,Europe,2020-01-23,31
+user_387,18,Female,Africa,2023-04-29,10
+user_388,58,Other,Asia,2022-11-09,59
+user_389,65,Female,North America,2022-01-25,55
+user_390,60,Female,Europe,2022-09-19,6
+user_391,64,Other,Asia,2023-04-25,1
+user_392,59,Other,Asia,2024-08-24,41
+user_393,65,Other,Europe,2020-05-30,24
+user_394,22,Female,Asia,2021-08-26,80
+user_395,32,Other,South America,2024-03-27,35
+user_396,29,Other,Asia,2024-05-16,94
+user_397,59,Female,North America,2024-05-13,71
+user_398,38,Male,South America,2023-11-03,7
+user_399,24,Male,Africa,2022-01-17,27
+user_400,50,Other,North America,2022-01-07,33
+user_401,18,Female,Asia,2022-04-05,77
+user_402,45,Other,South America,2021-05-27,22
+user_403,23,Male,Europe,2024-01-24,72
+user_404,23,Male,South America,2023-08-12,38
+user_405,21,Male,South America,2023-12-24,40
+user_406,28,Male,North America,2020-10-16,64
+user_407,65,Female,South America,2022-02-02,18
+user_408,32,Other,Asia,2022-08-10,5
+user_409,41,Male,North America,2021-09-28,8
+user_410,29,Male,North America,2022-11-17,4
+user_411,21,Other,Asia,2020-03-28,70
+user_412,29,Other,Asia,2023-04-08,42
+user_413,60,Male,Europe,2021-04-24,71
+user_414,39,Male,South America,2021-08-06,60
+user_415,24,Female,Africa,2022-01-22,91
+user_416,39,Female,Africa,2024-04-15,38
+user_417,28,Male,South America,2021-03-17,24
+user_418,60,Female,South America,2023-09-25,78
+user_419,42,Male,Africa,2024-09-08,89
+user_420,32,Male,North America,2024-06-22,26
+user_421,32,Male,North America,2020-10-25,42
+user_422,44,Female,South America,2024-08-18,46
+user_423,39,Other,South America,2024-04-14,44
+user_424,54,Female,Europe,2022-06-24,78
+user_425,41,Other,Europe,2021-11-27,90
+user_426,48,Female,Asia,2022-10-14,76
+user_427,32,Female,Africa,2023-12-02,38
+user_428,49,Female,Africa,2024-08-30,55
+user_429,40,Other,Asia,2021-09-15,78
+user_430,18,Female,South America,2024-02-23,3
+user_431,54,Male,South America,2023-09-17,4
+user_432,18,Female,Asia,2024-03-09,18
+user_433,26,Male,South America,2023-12-10,82
+user_434,44,Female,North America,2021-12-10,74
+user_435,36,Female,Africa,2024-02-21,28
+user_436,28,Female,Asia,2024-08-22,13
+user_437,36,Male,Africa,2021-05-13,29
+user_438,60,Other,Europe,2020-07-19,30
+user_439,28,Male,Asia,2020-07-22,75
+user_440,59,Male,North America,2021-07-30,68
+user_441,41,Other,North America,2023-08-16,96
+user_442,43,Other,South America,2021-09-17,86
+user_443,43,Male,South America,2020-04-14,81
+user_444,39,Other,North America,2024-09-02,9
+user_445,56,Male,Africa,2024-09-13,86
+user_446,18,Male,South America,2024-07-07,89
+user_447,28,Female,South America,2020-01-27,74
+user_448,56,Male,South America,2023-05-03,18
+user_449,36,Male,North America,2024-12-28,91
+user_450,33,Other,North America,2021-06-28,64
+user_451,40,Male,North America,2023-06-17,100
+user_452,33,Other,Africa,2020-10-21,27
+user_453,20,Male,Europe,2021-04-20,20
+user_454,42,Other,Europe,2020-05-12,62
+user_455,34,Female,North America,2021-12-15,15
+user_456,25,Male,Africa,2022-04-28,55
+user_457,26,Other,Europe,2021-02-14,88
+user_458,40,Other,North America,2023-09-16,47
+user_459,43,Female,Europe,2021-12-28,64
+user_460,53,Female,Africa,2024-09-19,78
+user_461,60,Other,Europe,2021-05-13,65
+user_462,29,Female,South America,2021-06-07,17
+user_463,29,Other,Africa,2022-08-03,93
+user_464,57,Other,Asia,2023-11-03,38
+user_465,56,Other,Europe,2024-09-01,90
+user_466,28,Other,South America,2024-07-12,48
+user_467,29,Other,Asia,2022-10-30,23
+user_468,62,Female,Europe,2024-09-27,33
+user_469,38,Other,Africa,2022-07-26,100
+user_470,43,Other,Europe,2022-05-01,71
+user_471,51,Male,Asia,2022-11-25,70
+user_472,41,Female,Europe,2021-05-20,88
+user_473,57,Female,Europe,2022-08-30,79
+user_474,51,Female,Africa,2021-03-10,58
+user_475,65,Other,Asia,2023-12-21,48
+user_476,60,Other,Asia,2023-04-17,92
+user_477,36,Other,North America,2023-02-23,83
+user_478,53,Other,North America,2020-07-29,47
+user_479,45,Other,Asia,2020-06-05,65
+user_480,47,Other,Asia,2021-04-07,79
+user_481,60,Male,Europe,2021-05-23,1
+user_482,59,Other,Europe,2024-05-07,38
+user_483,62,Female,Europe,2023-10-12,23
+user_484,18,Other,Europe,2024-12-09,79
+user_485,62,Other,Africa,2020-02-13,31
+user_486,36,Female,North America,2024-07-04,54
+user_487,32,Female,Africa,2023-08-08,84
+user_488,65,Male,Asia,2024-02-20,11
+user_489,50,Other,Asia,2024-01-29,69
+user_490,35,Other,Asia,2023-07-25,4
+user_491,24,Male,Europe,2020-05-16,55
+user_492,33,Other,Asia,2024-12-22,2
+user_493,46,Male,South America,2024-11-16,80
+user_494,18,Other,North America,2020-06-21,2
+user_495,31,Other,Asia,2023-09-26,13
+user_496,63,Female,North America,2020-12-11,78
+user_497,62,Other,Asia,2020-06-17,70
+user_498,28,Other,North America,2022-04-08,65
+user_499,27,Female,Asia,2022-09-06,61
+user_500,26,Female,Africa,2022-05-19,59
+user_501,58,Other,North America,2020-06-11,32
+user_502,30,Other,Europe,2023-06-26,38
+user_503,34,Male,South America,2021-01-09,73
+user_504,42,Female,South America,2022-06-20,37
+user_505,36,Male,South America,2023-04-30,78
+user_506,35,Male,Europe,2022-05-24,19
+user_507,31,Female,South America,2021-08-30,85
+user_508,50,Female,North America,2023-03-06,86
+user_509,30,Male,Europe,2021-07-05,26
+user_510,50,Other,Europe,2023-10-07,75
+user_511,52,Other,South America,2020-11-17,50
+user_512,46,Other,North America,2022-05-03,31
+user_513,25,Male,Europe,2022-01-19,77
+user_514,48,Female,Africa,2022-06-29,85
+user_515,44,Male,Asia,2022-08-11,71
+user_516,59,Other,Asia,2021-04-04,13
+user_517,19,Female,Asia,2021-10-16,75
+user_518,20,Female,Asia,2024-05-25,97
+user_519,29,Female,Europe,2020-06-20,76
+user_520,41,Male,South America,2021-03-13,76
+user_521,33,Female,Asia,2023-03-29,8
+user_522,55,Other,Asia,2022-08-02,13
+user_523,40,Other,South America,2024-02-09,11
+user_524,24,Other,North America,2022-04-21,86
+user_525,47,Male,Asia,2024-12-16,48
+user_526,43,Male,South America,2023-10-30,76
+user_527,61,Female,South America,2024-12-07,19
+user_528,44,Female,Asia,2020-09-13,43
+user_529,49,Female,Europe,2020-03-25,53
+user_530,43,Male,Europe,2024-06-27,30
+user_531,39,Other,Asia,2020-10-24,80
+user_532,18,Male,Africa,2021-04-01,13
+user_533,46,Male,North America,2021-01-07,31
+user_534,36,Male,Africa,2020-08-09,40
+user_535,22,Female,South America,2023-03-18,74
+user_536,25,Male,South America,2024-07-17,33
+user_537,37,Female,Europe,2024-10-24,92
+user_538,63,Female,South America,2021-10-22,88
+user_539,25,Other,Africa,2021-08-16,67
+user_540,36,Male,Europe,2024-02-16,59
+user_541,28,Female,Africa,2020-09-09,56
+user_542,27,Male,Asia,2022-08-25,67
+user_543,40,Other,North America,2021-12-09,33
+user_544,42,Other,North America,2021-12-15,24
+user_545,28,Male,North America,2021-04-02,15
+user_546,46,Female,Asia,2024-09-25,88
+user_547,32,Female,South America,2022-09-18,88
+user_548,55,Male,North America,2021-08-01,65
+user_549,32,Male,South America,2021-09-24,71
+user_550,46,Other,Asia,2022-06-13,3
+user_551,20,Other,North America,2021-02-01,75
+user_552,62,Female,Europe,2021-08-25,40
+user_553,45,Male,Europe,2024-04-27,16
+user_554,25,Other,South America,2020-12-19,19
+user_555,43,Female,South America,2021-02-23,76
+user_556,30,Female,Asia,2020-10-30,7
+user_557,38,Female,North America,2020-03-05,23
+user_558,61,Male,North America,2021-03-21,78
+user_559,57,Other,South America,2023-11-29,19
+user_560,21,Other,Africa,2021-06-30,47
+user_561,51,Other,Asia,2023-12-09,96
+user_562,48,Male,Asia,2023-12-14,11
+user_563,62,Female,Asia,2024-07-02,78
+user_564,60,Female,South America,2022-01-16,100
+user_565,51,Male,South America,2021-06-19,93
+user_566,33,Female,Europe,2021-07-04,74
+user_567,22,Female,Africa,2024-02-03,88
+user_568,30,Female,North America,2024-07-24,42
+user_569,37,Other,North America,2024-10-16,14
+user_570,52,Male,Africa,2020-06-07,49
+user_571,48,Male,Africa,2021-08-26,9
+user_572,33,Other,Europe,2020-03-09,5
+user_573,37,Other,North America,2020-12-21,39
+user_574,64,Other,Africa,2024-12-07,24
+user_575,37,Female,South America,2020-05-12,97
+user_576,33,Male,South America,2024-06-17,98
+user_577,51,Male,Asia,2023-11-28,74
+user_578,55,Other,Asia,2022-09-22,94
+user_579,26,Other,Europe,2020-03-06,10
+user_580,41,Other,Asia,2024-02-24,68
+user_581,42,Female,Europe,2022-05-12,24
+user_582,49,Other,South America,2021-11-30,31
+user_583,32,Female,Africa,2024-10-21,52
+user_584,52,Male,Europe,2021-03-31,74
+user_585,19,Female,Asia,2024-01-02,99
+user_586,24,Female,Europe,2020-03-08,28
+user_587,31,Other,North America,2020-11-21,52
+user_588,63,Female,Africa,2021-06-19,61
+user_589,21,Other,North America,2024-09-16,57
+user_590,65,Male,Europe,2024-06-23,91
+user_591,47,Male,Europe,2021-08-19,17
+user_592,54,Female,Asia,2021-05-26,29
+user_593,27,Other,Europe,2023-08-13,59
+user_594,18,Male,North America,2023-10-23,60
+user_595,45,Male,Asia,2020-09-30,12
+user_596,49,Male,Africa,2024-04-23,61
+user_597,43,Other,Africa,2023-02-19,46
+user_598,53,Male,South America,2022-03-15,1
+user_599,59,Female,Europe,2024-07-14,10
+user_600,36,Female,Europe,2024-07-03,8
+user_601,33,Female,North America,2023-10-11,11
+user_602,40,Female,Africa,2024-01-03,93
+user_603,46,Female,North America,2024-03-03,29
+user_604,49,Male,South America,2024-12-19,87
+user_605,44,Male,Asia,2024-01-24,7
+user_606,21,Other,Asia,2024-12-08,41
+user_607,54,Male,Europe,2022-06-27,82
+user_608,19,Male,North America,2023-05-15,4
+user_609,38,Male,South America,2024-12-31,87
+user_610,45,Other,Africa,2022-06-21,70
+user_611,50,Female,North America,2022-01-21,43
+user_612,37,Other,Africa,2023-11-14,77
+user_613,51,Male,North America,2021-07-01,100
+user_614,49,Other,South America,2024-09-01,78
+user_615,23,Male,Europe,2022-07-21,28
+user_616,55,Male,Asia,2024-10-30,59
+user_617,45,Male,South America,2022-02-08,28
+user_618,36,Male,Africa,2023-06-14,91
+user_619,53,Female,Africa,2024-10-10,54
+user_620,24,Other,Europe,2020-04-11,44
+user_621,38,Other,Africa,2022-02-23,23
+user_622,18,Male,Africa,2021-05-11,57
+user_623,63,Other,Africa,2023-06-12,59
+user_624,47,Other,Europe,2024-09-10,11
+user_625,62,Female,Africa,2024-12-25,84
+user_626,39,Male,North America,2023-03-26,72
+user_627,45,Male,Asia,2022-05-16,22
+user_628,36,Female,South America,2020-07-20,30
+user_629,57,Female,South America,2024-04-08,35
+user_630,33,Other,Europe,2022-02-20,65
+user_631,43,Other,Europe,2021-07-23,27
+user_632,54,Other,Asia,2022-03-28,93
+user_633,54,Other,North America,2021-05-15,79
+user_634,41,Other,South America,2024-05-15,17
+user_635,40,Other,Europe,2022-01-20,61
+user_636,63,Female,North America,2020-01-16,32
+user_637,61,Female,Asia,2024-09-20,6
+user_638,39,Male,Africa,2024-03-04,52
+user_639,31,Other,Africa,2024-03-26,100
+user_640,21,Female,Asia,2020-08-24,15
+user_641,23,Female,Europe,2023-04-22,71
+user_642,21,Male,Europe,2022-10-08,85
+user_643,63,Female,North America,2020-04-26,2
+user_644,54,Other,Africa,2020-03-24,22
+user_645,23,Female,Africa,2022-02-28,12
+user_646,21,Female,Asia,2022-11-12,68
+user_647,61,Other,Africa,2020-05-16,13
+user_648,48,Other,Europe,2022-12-10,13
+user_649,27,Male,Europe,2020-02-24,33
+user_650,65,Other,South America,2023-12-19,32
+user_651,58,Female,Asia,2024-12-07,95
+user_652,25,Female,Africa,2022-06-07,28
+user_653,61,Male,South America,2023-10-11,84
+user_654,29,Male,Europe,2024-01-25,85
+user_655,57,Male,Africa,2022-10-10,8
+user_656,40,Other,Europe,2023-01-13,58
+user_657,54,Male,South America,2021-05-28,67
+user_658,58,Male,Asia,2020-10-04,96
+user_659,64,Other,South America,2020-09-09,24
+user_660,52,Male,North America,2022-03-12,58
+user_661,35,Male,Europe,2020-04-12,60
+user_662,47,Other,North America,2023-08-20,7
+user_663,25,Male,South America,2023-08-25,93
+user_664,52,Female,South America,2023-03-18,99
+user_665,43,Male,Africa,2022-01-14,53
+user_666,26,Female,Asia,2020-10-23,47
+user_667,20,Male,Asia,2023-08-21,100
+user_668,19,Other,Europe,2023-09-03,46
+user_669,36,Other,Europe,2024-01-19,58
+user_670,37,Female,Europe,2024-08-24,76
+user_671,24,Male,Europe,2021-04-20,64
+user_672,49,Other,North America,2024-05-17,80
+user_673,25,Male,Africa,2022-01-18,12
+user_674,31,Male,North America,2023-05-22,58
+user_675,55,Other,Asia,2022-08-05,36
+user_676,62,Other,North America,2024-04-14,41
+user_677,28,Male,South America,2024-11-14,15
+user_678,56,Male,Africa,2023-02-14,13
+user_679,27,Other,Africa,2021-05-26,26
+user_680,39,Female,South America,2023-02-22,48
+user_681,30,Female,Asia,2023-09-18,46
+user_682,64,Male,Asia,2021-09-10,82
+user_683,53,Other,South America,2023-01-11,27
+user_684,58,Male,Africa,2022-08-25,61
+user_685,62,Other,Asia,2021-04-20,59
+user_686,19,Female,South America,2021-06-18,44
+user_687,36,Female,South America,2022-02-12,82
+user_688,22,Female,Europe,2020-01-14,20
+user_689,36,Male,Africa,2021-08-28,100
+user_690,57,Other,Africa,2023-02-10,49
+user_691,27,Male,South America,2020-05-08,46
+user_692,21,Male,Europe,2020-05-22,46
+user_693,59,Male,Europe,2023-10-31,86
+user_694,52,Female,Asia,2024-11-29,82
+user_695,29,Female,North America,2021-02-28,65
+user_696,59,Male,South America,2024-09-21,84
+user_697,39,Male,North America,2020-01-26,19
+user_698,50,Female,North America,2020-01-15,72
+user_699,20,Other,North America,2023-05-25,22
+user_700,38,Female,North America,2020-07-08,4
+user_701,34,Other,Asia,2024-10-13,9
+user_702,61,Other,Africa,2022-08-18,84
+user_703,38,Male,Africa,2021-12-13,39
+user_704,61,Female,North America,2023-10-23,19
+user_705,44,Female,Africa,2020-07-18,97
+user_706,44,Other,Asia,2022-01-02,3
+user_707,45,Other,Asia,2021-02-13,98
+user_708,27,Female,Asia,2020-08-14,71
+user_709,55,Female,Africa,2022-08-04,45
+user_710,30,Other,Africa,2021-02-10,67
+user_711,50,Female,Asia,2022-07-13,91
+user_712,34,Male,South America,2020-07-15,73
+user_713,43,Female,Africa,2024-07-29,71
+user_714,45,Female,Europe,2022-09-02,91
+user_715,48,Female,South America,2023-04-16,67
+user_716,44,Male,South America,2020-05-21,59
+user_717,39,Male,Europe,2022-11-27,48
+user_718,58,Female,Africa,2020-01-18,53
+user_719,31,Female,Africa,2020-11-18,77
+user_720,57,Other,Africa,2022-03-05,48
+user_721,35,Female,South America,2023-11-19,50
+user_722,57,Male,South America,2024-10-31,58
+user_723,50,Male,North America,2023-01-05,37
+user_724,24,Other,Asia,2023-02-27,77
+user_725,55,Female,Europe,2023-12-31,71
+user_726,44,Other,Africa,2022-05-27,98
+user_727,46,Female,Asia,2024-11-27,37
+user_728,33,Female,Europe,2022-04-25,40
+user_729,46,Male,North America,2021-03-23,98
+user_730,58,Male,Europe,2024-03-29,10
+user_731,23,Other,South America,2021-08-15,63
+user_732,53,Other,South America,2020-02-12,64
+user_733,25,Other,Europe,2022-05-16,74
+user_734,38,Female,North America,2024-04-06,74
+user_735,56,Male,South America,2024-03-06,70
+user_736,54,Other,Asia,2022-12-13,13
+user_737,20,Other,North America,2021-08-19,58
+user_738,18,Other,Africa,2023-10-05,85
+user_739,27,Female,Asia,2024-08-13,38
+user_740,53,Other,Africa,2020-03-15,82
+user_741,26,Male,Europe,2022-09-22,13
+user_742,36,Female,Africa,2022-12-02,69
+user_743,51,Female,Africa,2024-01-17,17
+user_744,40,Other,Africa,2020-04-24,49
+user_745,49,Female,South America,2024-02-26,22
+user_746,63,Male,Asia,2022-11-05,13
+user_747,52,Male,Africa,2024-05-11,23
+user_748,51,Male,Asia,2022-06-11,17
+user_749,45,Female,North America,2023-09-27,98
+user_750,44,Female,Africa,2024-09-03,28
+user_751,47,Male,Europe,2024-09-03,94
+user_752,44,Male,North America,2023-07-12,89
+user_753,37,Other,Africa,2024-04-05,5
+user_754,47,Other,Africa,2021-02-20,49
+user_755,62,Other,North America,2021-05-03,98
+user_756,31,Male,Africa,2020-12-10,59
+user_757,27,Male,Europe,2021-12-05,36
+user_758,33,Male,North America,2023-04-13,73
+user_759,32,Male,South America,2022-05-08,98
+user_760,47,Female,Europe,2021-09-21,44
+user_761,39,Male,South America,2023-06-05,28
+user_762,36,Other,Asia,2024-09-18,25
+user_763,50,Female,Africa,2023-08-26,51
+user_764,24,Male,North America,2022-12-01,8
+user_765,61,Other,Africa,2022-11-13,68
+user_766,52,Female,Europe,2024-12-11,10
+user_767,51,Other,North America,2024-07-18,62
+user_768,59,Male,North America,2023-06-24,53
+user_769,41,Female,North America,2021-10-27,43
+user_770,27,Other,North America,2022-01-15,8
+user_771,46,Female,Africa,2022-02-08,60
+user_772,31,Other,Europe,2021-09-23,47
+user_773,26,Other,Europe,2024-06-15,94
+user_774,61,Female,Asia,2023-02-14,65
+user_775,21,Male,North America,2023-01-29,39
+user_776,57,Male,South America,2024-11-04,26
+user_777,35,Male,North America,2022-06-14,60
+user_778,46,Other,Europe,2022-01-25,32
+user_779,47,Male,Europe,2020-01-14,78
+user_780,56,Female,North America,2024-02-02,50
+user_781,46,Male,Asia,2020-04-28,68
+user_782,33,Female,Europe,2022-06-15,12
+user_783,48,Other,Asia,2021-12-30,52
+user_784,41,Female,Europe,2022-07-17,23
+user_785,62,Other,North America,2022-12-02,95
+user_786,22,Other,Africa,2022-10-27,42
+user_787,54,Female,Asia,2023-01-13,70
+user_788,62,Male,South America,2022-03-20,78
+user_789,55,Other,Europe,2023-10-04,11
+user_790,21,Female,Asia,2022-11-07,16
+user_791,62,Male,Africa,2023-02-03,4
+user_792,63,Male,Asia,2023-10-30,87
+user_793,22,Other,South America,2023-04-18,70
+user_794,36,Female,North America,2022-04-28,48
+user_795,27,Female,North America,2021-05-28,97
+user_796,29,Female,Europe,2022-06-19,65
+user_797,47,Other,Africa,2022-11-20,51
+user_798,58,Female,Asia,2023-08-24,62
+user_799,25,Other,Asia,2020-12-08,63
+user_800,39,Other,South America,2022-12-13,6
+user_801,19,Male,South America,2024-09-14,52
+user_802,63,Other,Europe,2021-03-27,89
+user_803,64,Female,North America,2023-12-05,74
+user_804,41,Female,Europe,2022-10-23,29
+user_805,62,Female,Africa,2020-05-17,69
+user_806,46,Other,South America,2023-05-18,76
+user_807,29,Other,Europe,2021-11-16,62
+user_808,58,Male,Asia,2023-12-15,76
+user_809,33,Female,South America,2021-05-09,7
+user_810,25,Male,Africa,2023-04-26,78
+user_811,36,Other,Asia,2020-05-08,5
+user_812,18,Other,North America,2021-11-28,11
+user_813,65,Other,North America,2022-06-09,89
+user_814,62,Other,Asia,2020-12-03,45
+user_815,57,Male,Africa,2022-12-01,80
+user_816,42,Female,Europe,2024-07-12,59
+user_817,35,Other,Africa,2023-09-24,79
+user_818,23,Female,Africa,2021-04-24,31
+user_819,50,Female,South America,2021-04-18,56
+user_820,32,Female,Europe,2024-05-10,59
+user_821,21,Male,South America,2024-10-16,100
+user_822,56,Male,Asia,2023-08-27,44
+user_823,62,Male,Asia,2024-02-27,16
+user_824,32,Male,Asia,2022-05-12,68
+user_825,24,Female,South America,2023-11-09,42
+user_826,49,Other,North America,2020-03-03,80
+user_827,20,Female,Asia,2024-12-30,18
+user_828,48,Female,North America,2024-04-24,14
+user_829,20,Female,South America,2023-06-29,46
+user_830,26,Other,South America,2023-06-20,2
+user_831,38,Other,Africa,2022-03-26,15
+user_832,18,Female,South America,2020-04-03,28
+user_833,40,Other,Africa,2024-02-05,60
+user_834,36,Male,Asia,2022-01-03,18
+user_835,51,Male,Asia,2021-08-03,21
+user_836,32,Other,Africa,2021-02-23,32
+user_837,44,Female,Europe,2020-05-04,3
+user_838,30,Female,Africa,2023-02-22,77
+user_839,44,Male,Europe,2022-12-05,86
+user_840,63,Other,Africa,2023-12-23,76
+user_841,38,Male,Asia,2021-12-17,57
+user_842,34,Other,North America,2022-01-17,3
+user_843,29,Other,South America,2023-10-25,10
+user_844,30,Female,Africa,2020-03-10,99
+user_845,42,Male,North America,2023-04-28,70
+user_846,59,Male,South America,2022-01-11,49
+user_847,38,Other,North America,2021-10-11,71
+user_848,64,Female,North America,2023-03-07,43
+user_849,37,Female,Asia,2021-06-14,71
+user_850,32,Male,North America,2023-12-27,59
+user_851,34,Other,Asia,2024-05-16,46
+user_852,62,Other,Europe,2024-09-17,43
+user_853,58,Male,Europe,2020-10-30,66
+user_854,60,Male,Asia,2024-07-09,26
+user_855,26,Other,South America,2020-06-14,74
+user_856,65,Female,Asia,2021-05-21,57
+user_857,57,Other,South America,2024-03-22,75
+user_858,23,Other,Africa,2020-05-31,96
+user_859,41,Other,South America,2023-09-27,90
+user_860,60,Other,Africa,2021-11-30,97
+user_861,48,Male,North America,2022-04-18,62
+user_862,28,Other,North America,2022-05-23,49
+user_863,28,Male,North America,2023-12-06,10
+user_864,21,Other,South America,2020-10-21,4
+user_865,20,Female,Europe,2021-08-09,92
+user_866,47,Female,North America,2021-04-08,27
+user_867,44,Female,North America,2020-11-21,14
+user_868,22,Other,South America,2022-10-28,32
+user_869,28,Male,South America,2023-12-17,87
+user_870,50,Other,North America,2024-10-07,18
+user_871,43,Other,Africa,2023-01-26,7
+user_872,50,Male,South America,2022-05-03,32
+user_873,54,Other,Africa,2024-07-14,12
+user_874,27,Male,Asia,2023-05-20,36
+user_875,56,Male,Europe,2020-11-22,44
+user_876,22,Other,South America,2022-06-17,32
+user_877,60,Other,Europe,2023-11-02,97
+user_878,37,Female,Europe,2022-09-23,85
+user_879,23,Male,Africa,2023-01-12,8
+user_880,53,Male,North America,2021-11-16,86
+user_881,54,Male,South America,2023-02-03,100
+user_882,42,Other,South America,2021-02-01,22
+user_883,54,Male,Asia,2021-06-08,37
+user_884,62,Other,Europe,2021-08-22,66
+user_885,55,Other,South America,2023-10-23,54
+user_886,27,Male,South America,2020-11-20,52
+user_887,61,Male,Asia,2023-08-21,3
+user_888,56,Male,Europe,2024-10-19,5
+user_889,61,Male,South America,2021-01-30,79
+user_890,44,Female,North America,2023-03-17,20
+user_891,33,Other,Asia,2024-03-29,35
+user_892,26,Other,North America,2020-09-10,29
+user_893,34,Female,Africa,2024-10-23,67
+user_894,41,Other,Africa,2022-01-25,32
+user_895,45,Female,Asia,2020-11-17,74
+user_896,18,Female,Europe,2022-11-18,66
+user_897,49,Male,North America,2023-03-23,47
+user_898,57,Female,Europe,2023-06-15,54
+user_899,45,Male,Asia,2023-06-25,77
+user_900,24,Male,South America,2022-08-12,57
+user_901,40,Female,Asia,2023-07-11,9
+user_902,48,Other,Europe,2022-09-28,78
+user_903,55,Female,North America,2020-02-10,32
+user_904,23,Female,Europe,2023-01-11,33
+user_905,60,Female,Europe,2022-01-01,67
+user_906,49,Female,Asia,2022-09-28,49
+user_907,40,Female,North America,2022-11-07,5
+user_908,60,Male,Europe,2021-03-06,9
+user_909,30,Male,South America,2020-01-09,31
+user_910,56,Male,Europe,2020-08-02,26
+user_911,39,Male,North America,2022-09-10,90
+user_912,20,Female,Europe,2021-03-01,50
+user_913,25,Other,South America,2020-12-15,70
+user_914,28,Female,Africa,2020-02-01,16
+user_915,60,Female,North America,2022-03-13,3
+user_916,30,Male,Asia,2021-02-10,93
+user_917,27,Male,Europe,2020-12-22,46
+user_918,53,Other,South America,2021-01-04,22
+user_919,49,Male,Asia,2023-05-18,94
+user_920,35,Male,Asia,2024-12-21,37
+user_921,49,Other,Europe,2023-09-25,25
+user_922,23,Female,Europe,2020-02-23,25
+user_923,58,Other,South America,2022-03-21,95
+user_924,55,Other,Africa,2021-04-17,60
+user_925,60,Female,Asia,2023-01-28,82
+user_926,22,Male,South America,2023-08-13,93
+user_927,39,Female,North America,2021-04-08,47
+user_928,57,Male,Asia,2022-05-07,60
+user_929,37,Female,Asia,2022-06-07,39
+user_930,27,Other,Europe,2020-11-28,14
+user_931,22,Male,Africa,2024-03-08,82
+user_932,40,Other,South America,2020-07-27,43
+user_933,63,Male,North America,2021-06-21,79
+user_934,43,Other,Europe,2023-11-29,57
+user_935,36,Female,South America,2021-05-07,75
+user_936,48,Other,Africa,2020-06-04,25
+user_937,32,Other,North America,2021-08-09,85
+user_938,40,Male,South America,2024-07-29,43
+user_939,30,Other,Africa,2024-11-08,50
+user_940,62,Female,Africa,2024-09-21,10
+user_941,19,Male,Africa,2020-04-26,14
+user_942,18,Female,Europe,2020-11-12,48
+user_943,38,Female,Europe,2021-10-19,96
+user_944,23,Female,Africa,2024-06-07,78
+user_945,35,Other,Europe,2020-09-01,30
+user_946,27,Other,Africa,2024-10-26,90
+user_947,23,Male,Asia,2023-03-24,18
+user_948,52,Other,Africa,2024-10-27,59
+user_949,28,Other,South America,2020-02-12,95
+user_950,32,Male,Asia,2021-08-26,22
+user_951,50,Other,South America,2024-12-09,100
+user_952,37,Other,Europe,2021-02-15,72
+user_953,22,Male,Africa,2023-05-03,13
+user_954,35,Female,Africa,2021-10-25,23
+user_955,57,Other,North America,2022-03-08,32
+user_956,38,Other,Africa,2024-10-23,98
+user_957,50,Male,Africa,2021-12-30,17
+user_958,49,Other,North America,2022-09-20,8
+user_959,27,Male,Europe,2022-10-02,86
+user_960,42,Other,Africa,2021-05-21,94
+user_961,52,Male,Europe,2022-10-13,84
+user_962,31,Female,Africa,2024-08-24,58
+user_963,44,Male,Asia,2024-07-26,53
+user_964,53,Female,Africa,2020-10-03,6
+user_965,33,Male,Africa,2024-06-07,61
+user_966,53,Male,Asia,2023-04-22,15
+user_967,36,Male,North America,2020-01-09,57
+user_968,35,Female,Europe,2021-01-17,68
+user_969,58,Other,Europe,2022-05-28,38
+user_970,46,Female,North America,2020-11-17,44
+user_971,30,Female,Asia,2020-09-05,52
+user_972,57,Male,Africa,2020-04-28,73
+user_973,55,Female,North America,2024-07-01,74
+user_974,29,Female,North America,2024-10-10,4
+user_975,30,Female,North America,2023-09-08,72
+user_976,53,Female,Europe,2022-07-13,67
+user_977,47,Female,Africa,2023-09-05,70
+user_978,53,Female,Africa,2020-08-18,23
+user_979,57,Other,North America,2020-01-23,54
+user_980,47,Female,Asia,2021-05-08,46
+user_981,58,Male,Africa,2021-08-16,80
+user_982,61,Other,Asia,2021-09-30,74
+user_983,26,Other,South America,2023-11-30,3
+user_984,63,Male,North America,2024-04-01,95
+user_985,25,Male,Africa,2023-02-24,34
+user_986,54,Other,North America,2022-07-23,50
+user_987,25,Female,Asia,2024-01-07,63
+user_988,50,Male,Europe,2022-03-08,98
+user_989,52,Female,South America,2020-01-25,25
+user_990,48,Other,Asia,2022-03-03,44
+user_991,35,Male,Asia,2021-10-13,56
+user_992,56,Female,Africa,2021-03-26,23
+user_993,23,Male,Asia,2020-07-05,10
+user_994,46,Male,Africa,2022-12-19,13
+user_995,18,Female,Asia,2022-12-03,48
+user_996,56,Other,South America,2022-06-07,90
+user_997,36,Male,Africa,2022-07-17,2
+user_998,62,Male,Europe,2021-06-06,4
+user_999,54,Male,Asia,2024-09-13,26
+user_1000,34,Male,North America,2021-09-15,47
+user_1001,60,Male,Europe,2022-09-22,86
+user_1002,25,Female,North America,2024-04-04,97
+user_1003,36,Other,Africa,2023-06-02,85
+user_1004,47,Female,North America,2023-06-22,54
+user_1005,63,Female,Africa,2021-08-15,59
+user_1006,47,Other,North America,2020-01-19,94
+user_1007,61,Male,North America,2021-09-07,33
+user_1008,20,Other,North America,2022-12-28,34
+user_1009,58,Other,Europe,2024-03-17,14
+user_1010,65,Other,North America,2024-04-16,35
+user_1011,45,Female,Europe,2020-03-08,66
+user_1012,39,Other,North America,2021-10-03,40
+user_1013,41,Other,Asia,2023-07-12,3
+user_1014,26,Other,Europe,2020-01-28,96
+user_1015,51,Male,Asia,2020-01-17,60
+user_1016,43,Female,Europe,2021-01-09,61
+user_1017,20,Male,Europe,2021-02-15,28
+user_1018,62,Other,Africa,2020-03-30,44
+user_1019,27,Other,Africa,2023-04-18,83
+user_1020,23,Male,Europe,2020-06-05,36
+user_1021,28,Other,Africa,2020-01-09,25
+user_1022,65,Female,Asia,2024-03-30,92
+user_1023,58,Male,Asia,2024-02-08,82
+user_1024,37,Male,North America,2021-01-17,44
+user_1025,57,Male,Europe,2022-11-14,68
+user_1026,62,Other,Asia,2022-03-28,98
+user_1027,41,Other,Europe,2023-02-26,56
+user_1028,36,Female,South America,2022-05-27,85
+user_1029,53,Female,Europe,2024-08-22,100
+user_1030,60,Male,Asia,2021-01-05,75
+user_1031,55,Female,Africa,2024-10-28,39
+user_1032,61,Female,Africa,2022-05-03,67
+user_1033,45,Other,South America,2020-10-24,13
+user_1034,52,Other,South America,2021-09-15,13
+user_1035,27,Female,Europe,2021-02-22,29
+user_1036,51,Female,North America,2024-04-13,22
+user_1037,58,Male,North America,2022-03-20,55
+user_1038,57,Other,North America,2023-02-28,76
+user_1039,60,Female,South America,2021-01-04,99
+user_1040,24,Male,Africa,2020-06-09,43
+user_1041,64,Female,South America,2022-08-29,72
+user_1042,30,Male,Asia,2020-06-19,46
+user_1043,60,Female,Africa,2020-10-03,75
+user_1044,22,Female,Africa,2022-08-07,47
+user_1045,40,Male,Asia,2023-10-08,72
+user_1046,59,Male,South America,2023-11-01,71
+user_1047,23,Female,South America,2022-04-29,55
+user_1048,28,Female,Europe,2023-04-05,20
+user_1049,56,Male,North America,2020-05-04,99
+user_1050,29,Other,Africa,2024-11-01,45
+user_1051,33,Female,Europe,2022-09-02,5
+user_1052,58,Female,South America,2024-03-14,76
+user_1053,51,Female,North America,2022-10-28,68
+user_1054,37,Male,Africa,2021-01-26,94
+user_1055,29,Female,Europe,2024-05-09,34
+user_1056,57,Male,Africa,2024-04-17,90
+user_1057,42,Other,Asia,2023-05-16,11
+user_1058,41,Female,Asia,2023-05-04,44
+user_1059,61,Female,North America,2023-01-15,40
+user_1060,41,Other,Asia,2023-01-18,62
+user_1061,20,Male,Asia,2020-08-21,65
+user_1062,42,Other,Asia,2024-08-12,20
+user_1063,46,Female,Asia,2022-07-17,22
+user_1064,63,Male,Africa,2024-08-04,40
+user_1065,57,Other,Africa,2022-07-04,99
+user_1066,47,Female,Africa,2020-12-11,33
+user_1067,41,Male,North America,2024-09-10,13
+user_1068,29,Male,Europe,2021-12-11,73
+user_1069,18,Male,North America,2023-01-30,43
+user_1070,47,Other,Africa,2021-05-16,72
+user_1071,61,Male,Europe,2024-03-09,3
+user_1072,28,Male,Europe,2024-06-18,88
+user_1073,54,Female,Europe,2024-08-30,28
+user_1074,47,Other,Europe,2022-02-11,76
+user_1075,23,Female,South America,2024-08-30,43
+user_1076,35,Male,South America,2021-07-05,52
+user_1077,48,Other,Europe,2022-04-25,64
+user_1078,34,Other,North America,2021-01-20,56
+user_1079,42,Other,Europe,2023-01-11,39
+user_1080,24,Female,Africa,2024-01-21,1
+user_1081,18,Male,Africa,2023-01-20,44
+user_1082,43,Other,North America,2022-11-17,79
+user_1083,55,Male,South America,2022-09-01,18
+user_1084,52,Female,South America,2024-08-02,52
+user_1085,28,Female,Africa,2022-12-01,14
+user_1086,34,Other,Africa,2021-09-25,70
+user_1087,64,Male,South America,2021-08-08,70
+user_1088,18,Other,South America,2020-07-07,69
+user_1089,52,Male,Africa,2022-06-20,19
+user_1090,20,Female,Africa,2022-04-28,77
+user_1091,51,Female,Asia,2021-12-21,94
+user_1092,26,Female,South America,2024-07-29,36
+user_1093,30,Other,Asia,2023-06-13,65
+user_1094,58,Male,Asia,2021-07-07,22
+user_1095,59,Female,Africa,2023-11-10,42
+user_1096,54,Other,Asia,2023-03-16,10
+user_1097,41,Other,North America,2023-09-01,8
+user_1098,57,Female,North America,2022-08-27,78
+user_1099,24,Female,Africa,2020-11-27,88
+user_1100,46,Male,Europe,2020-12-11,88
+user_1101,19,Female,Europe,2023-02-15,64
+user_1102,43,Other,South America,2022-08-15,47
+user_1103,39,Male,South America,2022-07-16,77
+user_1104,23,Male,South America,2021-02-14,49
+user_1105,30,Female,Europe,2022-08-12,92
+user_1106,33,Female,Europe,2024-09-05,6
+user_1107,39,Female,South America,2024-10-11,60
+user_1108,46,Other,Africa,2021-01-12,81
+user_1109,55,Other,North America,2021-10-07,72
+user_1110,33,Other,South America,2024-04-24,100
+user_1111,59,Male,South America,2023-12-18,10
+user_1112,48,Male,Asia,2023-02-08,59
+user_1113,51,Female,North America,2021-03-28,40
+user_1114,47,Female,Europe,2020-08-02,35
+user_1115,28,Other,South America,2024-10-30,64
+user_1116,44,Male,Africa,2023-07-17,87
+user_1117,20,Male,Europe,2020-02-20,93
+user_1118,20,Female,Asia,2024-11-15,66
+user_1119,23,Female,Europe,2024-07-12,21
+user_1120,62,Female,Asia,2022-06-08,83
+user_1121,41,Male,North America,2022-04-22,23
+user_1122,61,Other,South America,2020-07-11,34
+user_1123,49,Female,Africa,2020-02-26,9
+user_1124,26,Female,Asia,2024-08-26,4
+user_1125,58,Male,North America,2022-02-23,100
+user_1126,36,Other,South America,2021-06-07,65
+user_1127,47,Female,Asia,2020-09-08,60
+user_1128,33,Other,Europe,2023-12-07,19
+user_1129,34,Female,Africa,2022-04-29,2
+user_1130,49,Female,Asia,2020-05-05,5
+user_1131,20,Female,South America,2022-10-30,14
+user_1132,41,Other,North America,2020-02-25,44
+user_1133,57,Female,Europe,2020-09-23,44
+user_1134,32,Female,Africa,2023-02-01,54
+user_1135,34,Female,Africa,2021-04-15,99
+user_1136,49,Female,South America,2023-03-29,16
+user_1137,56,Male,North America,2020-05-29,17
+user_1138,64,Female,South America,2020-03-24,21
+user_1139,36,Female,Africa,2023-07-16,40
+user_1140,20,Female,Asia,2020-12-25,79
+user_1141,36,Other,South America,2024-08-31,90
+user_1142,18,Other,Asia,2024-10-23,84
+user_1143,60,Male,North America,2021-08-10,99
+user_1144,21,Male,Asia,2023-07-29,71
+user_1145,22,Male,Asia,2020-12-28,100
+user_1146,18,Female,North America,2022-06-18,78
+user_1147,52,Female,Asia,2024-03-12,12
+user_1148,44,Female,Europe,2021-05-21,41
+user_1149,32,Male,Asia,2022-05-08,78
+user_1150,51,Other,Asia,2020-05-18,92
+user_1151,31,Female,South America,2022-08-01,57
+user_1152,26,Other,Asia,2020-10-17,76
+user_1153,46,Other,Asia,2021-10-24,58
+user_1154,29,Other,North America,2021-02-07,97
+user_1155,44,Other,Africa,2020-02-13,41
+user_1156,43,Male,Africa,2020-01-28,94
+user_1157,45,Male,Africa,2024-11-02,58
+user_1158,30,Other,South America,2023-10-19,23
+user_1159,34,Other,Africa,2024-09-07,7
+user_1160,57,Female,Europe,2020-04-07,61
+user_1161,60,Male,Asia,2023-04-04,33
+user_1162,39,Other,Africa,2022-06-08,95
+user_1163,20,Male,Europe,2024-08-17,44
+user_1164,45,Male,Europe,2020-12-01,30
+user_1165,41,Other,South America,2024-02-25,9
+user_1166,34,Other,Africa,2024-02-25,63
+user_1167,52,Female,Africa,2023-01-26,16
+user_1168,34,Male,Africa,2020-06-07,96
+user_1169,49,Male,North America,2021-04-01,93
+user_1170,38,Male,South America,2021-04-18,28
+user_1171,25,Female,Africa,2023-10-26,18
+user_1172,43,Male,Europe,2023-10-13,88
+user_1173,43,Male,Europe,2021-05-30,100
+user_1174,53,Female,South America,2021-07-30,81
+user_1175,20,Female,Europe,2020-12-16,90
+user_1176,44,Male,North America,2023-04-01,8
+user_1177,25,Other,South America,2021-03-21,88
+user_1178,26,Other,South America,2024-12-05,66
+user_1179,54,Female,Asia,2022-04-23,29
+user_1180,61,Female,South America,2021-06-18,12
+user_1181,31,Other,Africa,2020-03-02,15
+user_1182,36,Female,North America,2024-11-28,75
+user_1183,44,Female,Asia,2020-01-25,52
+user_1184,61,Other,Asia,2021-01-15,43
+user_1185,38,Male,North America,2020-10-25,34
+user_1186,21,Other,Asia,2020-06-25,55
+user_1187,31,Other,South America,2021-04-01,62
+user_1188,64,Female,Africa,2024-05-12,25
+user_1189,38,Female,Europe,2022-07-31,55
+user_1190,42,Female,Europe,2020-01-12,99
+user_1191,60,Female,Asia,2023-02-16,98
+user_1192,49,Male,Asia,2020-06-24,57
+user_1193,63,Male,North America,2023-08-29,42
+user_1194,54,Female,South America,2023-07-30,96
+user_1195,56,Male,Europe,2023-12-16,27
+user_1196,62,Male,South America,2022-01-28,50
+user_1197,30,Other,Africa,2022-04-27,77
+user_1198,40,Other,Asia,2020-05-17,74
+user_1199,61,Female,Asia,2022-01-08,41
+user_1200,41,Other,North America,2023-07-28,75
+user_1201,47,Female,Europe,2024-04-16,44
+user_1202,38,Other,North America,2020-05-27,93
+user_1203,35,Other,Africa,2020-11-30,81
+user_1204,36,Female,North America,2024-02-02,38
+user_1205,49,Female,Africa,2024-09-07,61
+user_1206,26,Other,Europe,2023-07-20,30
+user_1207,65,Female,North America,2021-06-22,72
+user_1208,39,Female,Asia,2024-11-19,15
+user_1209,19,Male,Asia,2023-05-04,82
+user_1210,40,Male,Africa,2022-10-28,42
+user_1211,44,Other,Europe,2022-12-19,6
+user_1212,50,Male,South America,2022-08-09,54
+user_1213,50,Male,Asia,2020-12-21,16
+user_1214,32,Other,Europe,2022-04-16,28
+user_1215,42,Female,Africa,2022-07-07,44
+user_1216,28,Female,Africa,2021-05-20,48
+user_1217,35,Other,South America,2021-10-19,91
+user_1218,38,Male,South America,2022-12-28,87
+user_1219,31,Female,Africa,2022-11-18,90
+user_1220,39,Male,Africa,2022-10-30,29
+user_1221,42,Other,South America,2022-10-03,40
+user_1222,63,Female,Africa,2021-04-17,94
+user_1223,26,Other,Africa,2020-04-18,45
+user_1224,31,Other,South America,2022-09-23,56
+user_1225,63,Other,South America,2020-06-18,91
+user_1226,38,Male,Africa,2022-09-01,53
+user_1227,33,Other,Asia,2023-05-05,78
+user_1228,27,Male,Asia,2023-01-09,38
+user_1229,46,Other,Asia,2024-05-19,61
+user_1230,21,Female,Asia,2023-03-05,38
+user_1231,25,Male,South America,2023-09-18,71
+user_1232,25,Male,South America,2024-11-13,42
+user_1233,27,Other,South America,2022-01-04,41
+user_1234,40,Female,North America,2024-07-25,72
+user_1235,31,Other,South America,2020-09-17,98
+user_1236,64,Other,North America,2020-03-17,3
+user_1237,39,Female,North America,2021-11-13,30
+user_1238,36,Male,Europe,2020-01-21,33
+user_1239,41,Female,Africa,2023-12-19,71
+user_1240,51,Male,Europe,2022-01-14,92
+user_1241,29,Female,Europe,2023-06-07,80
+user_1242,59,Male,Africa,2021-04-26,97
+user_1243,38,Female,Asia,2024-02-22,18
+user_1244,39,Female,South America,2024-11-30,18
+user_1245,62,Male,Asia,2020-01-15,11
+user_1246,50,Female,Africa,2024-06-28,35
+user_1247,42,Male,Asia,2023-09-07,13
+user_1248,36,Female,North America,2024-08-20,21
+user_1249,22,Other,Asia,2022-04-21,1
+user_1250,36,Other,South America,2023-03-26,6
+user_1251,27,Male,North America,2023-10-01,70
+user_1252,58,Other,North America,2020-08-10,14
+user_1253,49,Male,South America,2021-05-28,7
+user_1254,55,Female,North America,2024-07-30,9
+user_1255,52,Other,Africa,2020-05-07,8
+user_1256,38,Male,Europe,2021-08-13,75
+user_1257,35,Male,Asia,2023-08-11,15
+user_1258,25,Other,North America,2023-01-03,52
+user_1259,29,Other,South America,2022-09-14,5
+user_1260,44,Male,Asia,2022-11-27,29
+user_1261,28,Male,Asia,2020-05-27,76
+user_1262,44,Other,Europe,2024-01-23,63
+user_1263,56,Other,Africa,2023-02-21,62
+user_1264,47,Female,North America,2023-07-16,33
+user_1265,49,Female,Europe,2021-11-02,53
+user_1266,40,Male,Europe,2024-11-10,68
+user_1267,65,Other,South America,2021-10-23,66
+user_1268,22,Other,South America,2020-01-13,7
+user_1269,36,Female,Europe,2020-09-16,24
+user_1270,21,Other,South America,2024-07-12,93
+user_1271,60,Female,North America,2023-09-01,15
+user_1272,33,Male,North America,2022-03-06,9
+user_1273,43,Other,North America,2022-03-06,84
+user_1274,54,Male,North America,2023-04-06,82
+user_1275,56,Female,Africa,2024-06-24,47
+user_1276,53,Female,Africa,2024-12-26,2
+user_1277,23,Female,South America,2022-03-01,57
+user_1278,57,Female,North America,2023-11-15,76
+user_1279,31,Male,South America,2022-06-28,90
+user_1280,62,Male,Europe,2023-11-09,6
+user_1281,51,Male,North America,2020-01-25,9
+user_1282,40,Male,North America,2023-07-11,10
+user_1283,65,Male,Africa,2024-07-07,83
+user_1284,20,Female,Africa,2020-12-20,33
+user_1285,43,Male,North America,2024-05-31,12
+user_1286,41,Male,South America,2020-08-15,29
+user_1287,59,Other,North America,2024-08-24,51
+user_1288,28,Other,Europe,2020-04-30,8
+user_1289,19,Female,Europe,2024-05-25,97
+user_1290,28,Female,Europe,2022-06-02,40
+user_1291,42,Other,North America,2021-03-10,1
+user_1292,50,Other,Africa,2024-05-12,48
+user_1293,62,Female,North America,2022-04-07,60
+user_1294,41,Male,Asia,2023-10-06,57
+user_1295,60,Female,South America,2020-09-06,7
+user_1296,60,Male,Africa,2024-07-26,99
+user_1297,30,Male,Asia,2024-08-17,100
+user_1298,19,Other,Europe,2023-07-13,22
+user_1299,45,Other,Europe,2023-08-24,87
+user_1300,61,Female,North America,2024-03-16,9
+user_1301,33,Male,Africa,2022-01-24,77
+user_1302,48,Female,Africa,2020-11-11,75
+user_1303,24,Other,Africa,2020-09-24,61
+user_1304,34,Female,Europe,2020-03-20,38
+user_1305,38,Other,Asia,2022-05-14,53
+user_1306,22,Other,Africa,2020-06-09,20
+user_1307,47,Female,Africa,2021-08-16,90
+user_1308,36,Other,Asia,2024-03-06,1
+user_1309,45,Other,Asia,2020-09-16,57
+user_1310,21,Female,Asia,2023-09-05,28
+user_1311,20,Male,Europe,2022-12-04,28
+user_1312,36,Male,North America,2020-03-18,7
+user_1313,33,Female,South America,2023-08-04,94
+user_1314,24,Female,South America,2020-10-01,11
+user_1315,50,Other,Asia,2023-06-27,20
+user_1316,20,Other,South America,2022-11-02,86
+user_1317,23,Other,Africa,2022-06-11,17
+user_1318,53,Male,Asia,2024-08-29,37
+user_1319,41,Female,Europe,2021-01-17,74
+user_1320,58,Male,North America,2023-03-22,10
+user_1321,23,Male,North America,2024-02-17,88
+user_1322,19,Male,South America,2022-01-06,33
+user_1323,50,Female,North America,2023-08-01,45
+user_1324,52,Female,Asia,2021-06-04,20
+user_1325,28,Male,Asia,2020-08-17,62
+user_1326,62,Male,Africa,2023-09-01,58
+user_1327,20,Female,Asia,2021-06-24,66
+user_1328,24,Female,Africa,2022-09-14,89
+user_1329,31,Female,Asia,2024-11-05,57
+user_1330,59,Female,South America,2022-04-17,31
+user_1331,29,Male,Africa,2021-09-19,10
+user_1332,55,Female,Asia,2021-05-06,87
+user_1333,18,Male,Africa,2020-02-16,59
+user_1334,43,Male,North America,2024-11-30,26
+user_1335,18,Other,North America,2024-11-17,10
+user_1336,63,Female,Africa,2021-10-09,62
+user_1337,61,Other,South America,2020-04-06,71
+user_1338,21,Female,North America,2022-07-09,23
+user_1339,20,Female,Asia,2024-05-04,93
+user_1340,65,Female,Europe,2021-10-08,80
+user_1341,65,Male,Africa,2023-01-10,12
+user_1342,33,Male,Europe,2024-06-14,87
+user_1343,20,Other,North America,2021-03-08,57
+user_1344,52,Male,Asia,2022-04-10,90
+user_1345,65,Male,Asia,2022-03-20,66
+user_1346,61,Male,Asia,2024-01-25,58
+user_1347,36,Male,North America,2020-11-22,48
+user_1348,65,Male,Africa,2021-10-03,42
+user_1349,54,Male,South America,2022-03-05,65
+user_1350,53,Male,Africa,2020-08-12,26
+user_1351,19,Female,Europe,2024-12-18,81
+user_1352,28,Female,South America,2023-05-03,15
+user_1353,19,Other,North America,2022-10-24,8
+user_1354,20,Male,South America,2021-04-05,44
+user_1355,65,Female,South America,2020-12-26,48
+user_1356,52,Male,Europe,2021-12-14,74
+user_1357,32,Male,Africa,2020-12-09,31
+user_1358,57,Male,Africa,2024-02-27,31
+user_1359,52,Female,Europe,2021-03-22,65
+user_1360,31,Female,South America,2024-08-01,82
+user_1361,38,Other,South America,2020-02-07,38
+user_1362,51,Other,Asia,2020-11-28,69
+user_1363,64,Male,North America,2023-01-18,28
+user_1364,40,Other,South America,2020-04-14,49
+user_1365,59,Male,Africa,2024-08-23,21
+user_1366,50,Male,Africa,2023-09-09,70
+user_1367,39,Female,Asia,2024-04-26,51
+user_1368,35,Female,North America,2021-04-22,17
+user_1369,48,Male,Africa,2024-08-20,18
+user_1370,29,Female,South America,2020-05-04,94
+user_1371,27,Male,North America,2021-01-01,46
+user_1372,32,Male,Africa,2024-10-04,21
+user_1373,29,Male,North America,2020-05-24,91
+user_1374,33,Female,South America,2020-09-29,46
+user_1375,51,Female,South America,2024-10-30,73
+user_1376,33,Male,Europe,2023-01-18,54
+user_1377,36,Female,South America,2021-10-04,56
+user_1378,31,Female,Africa,2021-07-20,26
+user_1379,39,Other,Asia,2023-04-16,58
+user_1380,64,Female,South America,2020-11-26,78
+user_1381,21,Male,North America,2023-07-14,43
+user_1382,46,Other,Africa,2022-10-05,67
+user_1383,42,Female,Africa,2024-05-22,24
+user_1384,52,Female,Asia,2021-06-13,56
+user_1385,41,Male,North America,2024-08-17,30
+user_1386,61,Other,North America,2020-11-04,58
+user_1387,53,Female,Asia,2022-02-04,81
+user_1388,58,Male,North America,2022-01-25,98
+user_1389,19,Male,North America,2022-12-03,93
+user_1390,50,Female,Africa,2023-05-26,78
+user_1391,52,Other,Europe,2020-06-19,93
+user_1392,22,Other,Europe,2020-04-19,41
+user_1393,27,Female,Asia,2023-12-12,85
+user_1394,59,Other,Africa,2022-10-22,64
+user_1395,24,Other,Asia,2023-01-06,96
+user_1396,57,Female,Africa,2021-01-19,9
+user_1397,46,Other,Asia,2021-07-19,56
+user_1398,50,Male,Asia,2020-12-16,77
+user_1399,40,Female,North America,2020-07-19,2
+user_1400,39,Male,Africa,2024-01-13,57
+user_1401,33,Male,Asia,2024-09-11,75
+user_1402,58,Female,Asia,2023-10-16,43
+user_1403,53,Other,South America,2021-12-28,17
+user_1404,21,Male,Africa,2021-04-28,9
+user_1405,63,Male,South America,2022-12-21,49
+user_1406,58,Male,South America,2020-03-18,43
+user_1407,60,Other,North America,2021-02-06,89
+user_1408,23,Female,South America,2020-09-24,41
+user_1409,49,Male,North America,2022-08-26,95
+user_1410,19,Other,Europe,2024-10-03,37
+user_1411,58,Female,Europe,2022-03-08,68
+user_1412,36,Other,North America,2021-07-06,89
+user_1413,31,Female,Europe,2024-12-26,85
+user_1414,37,Female,Europe,2024-12-13,36
+user_1415,31,Female,Africa,2024-08-29,22
+user_1416,35,Other,North America,2022-11-15,16
+user_1417,47,Male,Asia,2020-01-19,18
+user_1418,63,Male,Africa,2020-10-19,91
+user_1419,41,Female,Africa,2022-02-08,67
+user_1420,18,Other,North America,2023-03-30,25
+user_1421,36,Other,Europe,2022-09-26,49
+user_1422,58,Other,North America,2024-05-16,56
+user_1423,38,Other,Africa,2020-01-30,9
+user_1424,46,Female,South America,2022-05-14,1
+user_1425,33,Male,North America,2024-08-10,26
+user_1426,42,Male,North America,2022-12-31,29
+user_1427,63,Other,South America,2021-07-18,72
+user_1428,26,Other,North America,2022-04-11,19
+user_1429,33,Female,South America,2021-12-26,30
+user_1430,42,Other,North America,2023-09-06,98
+user_1431,64,Male,North America,2024-05-18,45
+user_1432,28,Male,Asia,2022-12-19,35
+user_1433,55,Other,Africa,2022-08-04,98
+user_1434,47,Male,North America,2020-06-27,56
+user_1435,20,Other,Africa,2020-05-29,39
+user_1436,27,Male,Asia,2020-07-22,85
+user_1437,27,Other,South America,2021-02-13,19
+user_1438,32,Female,Asia,2024-05-11,31
+user_1439,40,Other,Asia,2024-08-10,76
+user_1440,19,Other,Africa,2023-03-29,18
+user_1441,32,Other,Europe,2023-07-04,52
+user_1442,25,Other,North America,2024-11-26,48
+user_1443,39,Other,Europe,2024-07-16,55
+user_1444,31,Other,Asia,2023-04-01,12
+user_1445,54,Female,North America,2023-02-24,57
+user_1446,21,Female,Asia,2024-02-20,9
+user_1447,29,Male,Africa,2024-01-04,78
+user_1448,43,Male,North America,2024-01-06,89
+user_1449,23,Male,Asia,2023-06-10,13
+user_1450,64,Other,Africa,2023-10-28,62
+user_1451,49,Female,North America,2020-03-17,17
+user_1452,48,Female,North America,2023-11-18,14
+user_1453,34,Female,Europe,2024-11-13,66
+user_1454,46,Female,Africa,2024-08-26,67
+user_1455,45,Male,North America,2022-07-07,21
+user_1456,32,Other,South America,2020-09-09,92
+user_1457,42,Male,Asia,2022-10-16,74
+user_1458,34,Other,North America,2024-09-01,24
+user_1459,42,Other,Europe,2021-01-06,10
+user_1460,40,Female,North America,2024-09-11,68
+user_1461,23,Male,Europe,2020-01-14,37
+user_1462,39,Other,North America,2021-06-07,45
+user_1463,19,Female,South America,2021-02-19,75
+user_1464,18,Male,North America,2024-12-25,20
+user_1465,37,Female,North America,2020-09-17,90
+user_1466,19,Female,North America,2021-03-17,39
+user_1467,23,Other,Africa,2021-06-11,29
+user_1468,25,Female,Asia,2020-09-10,99
+user_1469,23,Male,North America,2021-04-08,29
+user_1470,24,Female,Europe,2023-12-26,63
+user_1471,31,Female,Asia,2021-02-12,31
+user_1472,58,Other,North America,2023-09-19,58
+user_1473,61,Female,Africa,2024-12-29,75
+user_1474,64,Other,Africa,2020-04-07,98
+user_1475,61,Male,North America,2023-01-01,64
+user_1476,61,Other,Africa,2024-05-23,76
+user_1477,24,Female,South America,2024-02-14,58
+user_1478,27,Female,Europe,2023-09-03,13
+user_1479,22,Female,Africa,2023-11-05,86
+user_1480,18,Other,North America,2020-03-11,9
+user_1481,33,Male,South America,2021-05-04,86
+user_1482,43,Other,South America,2020-11-24,54
+user_1483,54,Female,South America,2021-12-04,27
+user_1484,21,Male,North America,2023-08-04,88
+user_1485,24,Female,South America,2021-10-15,55
+user_1486,58,Other,South America,2021-09-18,5
+user_1487,60,Female,Africa,2021-02-24,61
+user_1488,26,Male,Europe,2021-09-02,66
+user_1489,33,Male,Asia,2021-08-07,20
+user_1490,36,Male,Asia,2023-07-22,80
+user_1491,38,Female,Europe,2020-10-04,66
+user_1492,39,Female,Africa,2023-11-14,82
+user_1493,51,Male,Africa,2020-11-29,46
+user_1494,41,Male,Asia,2023-11-28,13
+user_1495,41,Female,Asia,2024-12-02,77
+user_1496,34,Male,North America,2021-08-08,76
+user_1497,63,Female,North America,2023-01-23,13
+user_1498,18,Female,Africa,2022-04-29,52
+user_1499,59,Female,Africa,2020-01-05,70
